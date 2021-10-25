@@ -1,0 +1,624 @@
+"['kite.com.', 'IN', 'NS', 'ns-1142.awsdns-14.org.']"|"['kite.com.', 'IN', 'NS', 'ns-845.awsdns-41.net.']"|"['kite.com.', 'IN', 'NS', 'ns-1996.awsdns-57.co.uk.']"|"['kite.com.', 'IN', 'NS', 'ns-137.awsdns-17.com.']"
+<<lt>>
+"['kite.com.', 'IN', 'TXT', '""v=spf1 include:customeriomail.com ~all""']"|"['kite.com.', 'IN', 'TXT', '""google-site-verification=Tb4fsK4lwIzZ-fXly7sY8XzIyCD_B7xlgErKFN2tT1M""']"|"['kite.com.', 'IN', 'TXT', '""facebook-domain-verification=62g0niyph13i36plxce6j9fcqkw76o""']"|"['kite.com.', 'IN', 'TXT', '""MS=1ABFFC0ED74C130EE3F3CF47EB5EA342CEF4E819""']"
+<<lt>>
+"['kite.com.', 'IN', 'MX', '1 aspmx.l.google.com.']"|"['kite.com.', 'IN', 'MX', '5 alt2.aspmx.l.google.com.']"|"['kite.com.', 'IN', 'MX', '5 alt1.aspmx.l.google.com.']"|"['kite.com.', 'IN', 'MX', '32767 ms32450678.msv1.invalid.']"|"['kite.com.', 'IN', 'MX', '10 alt4.aspmx.l.google.com.']"|"['kite.com.', 'IN', 'MX', '10 alt3.aspmx.l.google.com.']"
+<<lt>>
+"['pstatic.net.', 'IN', 'NS', 'ns1.naver.com.']"|"['pstatic.net.', 'IN', 'NS', 'ns2.naver.com.']"|"['pstatic.net.', 'IN', 'NS', 'e-ns.naver.com.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['gvt2.com.', 'IN', 'NS', 'ns3.google.com.']"|"['gvt2.com.', 'IN', 'NS', 'ns2.google.com.']"|"['gvt2.com.', 'IN', 'NS', 'ns4.google.com.']"|"['gvt2.com.', 'IN', 'NS', 'ns1.google.com.']"
+<<lt>>
+"['gvt2.com.', 'IN', 'TXT', '""v=spf1 -all""']"
+<<lt>>
+
+<<lt>>
+"['adobe.io.', 'IN', 'NS', 'ns-1001.awsdns-61.net.']"|"['adobe.io.', 'IN', 'NS', 'ns-67.awsdns-08.com.']"|"['adobe.io.', 'IN', 'NS', 'ns-1882.awsdns-43.co.uk.']"|"['adobe.io.', 'IN', 'NS', 'ns-1159.awsdns-16.org.']"
+<<lt>>
+"['adobe.io.', 'IN', 'TXT', '""v=spf1 include:amazonses.com -all""']"|"['adobe.io.', 'IN', 'TXT', '""tn2rh7ty1t1870l38gl2t8x0wp413n6y""']"|"['adobe.io.', 'IN', 'TXT', '""by1c76jcvvtn0m7kcblv8c8xzk82n4kv""']"|"['adobe.io.', 'IN', 'TXT', '""b2c6caadfdbe4133b3f19e912154f522""']"|"['adobe.io.', 'IN', 'TXT', '""_globalsign-domain-verification=fglY8fW9FHwF88bTrkylG5-G165KrJe3yCIjKnAR9J""']"|"['adobe.io.', 'IN', 'TXT', '""63148376f85b40b0b02b94ffaf3ad2c6""']"
+<<lt>>
+
+<<lt>>
+"['exp-tas.com.', 'IN', 'NS', 'ns2-05.azure-dns.net.']"|"['exp-tas.com.', 'IN', 'NS', 'ns1-05.azure-dns.com.']"|"['exp-tas.com.', 'IN', 'NS', 'ns4-05.azure-dns.info.']"|"['exp-tas.com.', 'IN', 'NS', 'ns3-05.azure-dns.org.']"
+<<lt>>
+"['exp-tas.com.', 'IN', 'TXT', '""AFDVALIDATION=ExP""']"
+<<lt>>
+
+<<lt>>
+"['gstatic.com.', 'IN', 'NS', 'ns4.google.com.']"|"['gstatic.com.', 'IN', 'NS', 'ns2.google.com.']"|"['gstatic.com.', 'IN', 'NS', 'ns1.google.com.']"|"['gstatic.com.', 'IN', 'NS', 'ns3.google.com.']"
+<<lt>>
+"['gstatic.com.', 'IN', 'TXT', '""v=spf1 ?all""']"
+<<lt>>
+
+<<lt>>
+"['office.com.', 'IN', 'NS', 'ns3-32.azure-dns.org.']"|"['office.com.', 'IN', 'NS', 'ns1-32.azure-dns.com.']"|"['office.com.', 'IN', 'NS', 'ns4-32.azure-dns.info.']"|"['office.com.', 'IN', 'NS', 'nse12.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'nse13.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'nse21.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'nse24.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'ns2-32.azure-dns.net.']"
+<<lt>>
+"['office.com.', 'IN', 'TXT', '""google-site-verification=zqthuNzyDukN37Znr1L5xdDKHo7KZUL2LTyOqzU7cFo""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=9aqt6mNhLx_inDlQjEfPiqq_TYfy72IFpoUh5_gijEg""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=WiCZ6HhPFmPMk5PTkdpSnevgiRttL2tQ-7QA_Z81JRk""']"|"['office.com.', 'IN', 'TXT', '""facebook-domain-verification=h6ulkdsze2qhdtbdnivt3lilquemgc""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=ntjPAtTot4dDzv9Z7WpQYYSlgVajPuBZx0FoZyRE8q8""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=iJN6qYrMLZmqRE70EPwnmUtT7qW3Rs-X3_wgil1YQjw""']"
+<<lt>>
+
+<<lt>>
+"['pinterest.co.kr.', 'NS', 'ns4.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns8.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns3.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns7.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns2.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns6.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns1.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns5.pinterest.com.']"
+<<lt>>
+"['pinterest.co.kr.', 'TXT', '""ccbf0dbbadcd41acb6d0c7dc4db6ea0e""']"|"['pinterest.co.kr.', 'TXT', '""v=spf1 redirect=_spf.pinterest.co.kr""']"
+<<lt>>
+
+<<lt>>
+"['live.com.', 'IN', 'NS', 'ns4-34.azure-dns.info.']"|"['live.com.', 'IN', 'NS', 'nse24.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'nse21.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'nse13.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'nse12.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'ns1-34.azure-dns.com.']"|"['live.com.', 'IN', 'NS', 'ns2-34.azure-dns.net.']"|"['live.com.', 'IN', 'NS', 'ns3-34.azure-dns.org.']"
+<<lt>>
+"['live.com.', 'IN', 'TXT', '""google-site-verification=N9kowue62gCm511Op0_N2LO1JZTcjA2GYzOE22SBaiI""']"|"['live.com.', 'IN', 'TXT', '""google-site-verification=DVGpQUbbQCBRPGlmWiTVUMyQGfLPlEVw6Z4pm39AAj4""']"|"['live.com.', 'IN', 'TXT', '""v=spf1 include:spf-a.hotmail.com include:spf-b.hotmail.com include:spf-c.hotmail.com include:spf-d.hotmail.com include:spf.protection.outlook.com ~all""']"|"['live.com.', 'IN', 'TXT', '""facebook-domain-verification=atvthxwtzc3u4ubnsozavn76cusuaj""']"|"['live.com.', 'IN', 'TXT', '""google-site-verification=0mLTLcpaFxdFNO4m1TfqB2WQ4rGtz7xpPmFwDJ9O_9Q""']"
+<<lt>>
+"['live.com.', 'IN', 'MX', '2 live-com.olc.protection.outlook.com.']"
+<<lt>>
+"['windowsupdate.com.', 'NS', 'ns4-205.azure-dns.info.']"|"['windowsupdate.com.', 'NS', 'ns3-205.azure-dns.org.']"|"['windowsupdate.com.', 'NS', 'ns2-205.azure-dns.net.']"|"['windowsupdate.com.', 'NS', 'ns1-205.azure-dns.com.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['msedge.net.', 'IN', 'NS', 'ns4.msedge.net.']"|"['msedge.net.', 'IN', 'NS', 'ns3.msedge.net.']"|"['msedge.net.', 'IN', 'NS', 'ns2.msedge.net.']"|"['msedge.net.', 'IN', 'NS', 'ns1.msedge.net.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['dropbox.com.', 'IN', 'NS', 'ns-564.awsdns-06.net.']"|"['dropbox.com.', 'IN', 'NS', 'ns-315.awsdns-39.com.']"|"['dropbox.com.', 'IN', 'NS', 'ns-1949.awsdns-51.co.uk.']"|"['dropbox.com.', 'IN', 'NS', 'ns-1162.awsdns-17.org.']"
+<<lt>>
+"['dropbox.com.', 'IN', 'TXT', '""v=spf1 ip4:45.58.64.0/20 ip4:185.45.8.0/22 ip4:162.125.0.0/16 ip4:199.47.216.0/22 ip4:108.160.160.0/20 ip4:205.189.0.0/24 ip4:160.34.15.16/28 ip4:52.5.134.202 ip6:2620:c6:8000::/48 include:amazonses.com include:_spf.google.com include:mail.zendesk.com"" "" include:mktomail.com include:_spf.salesforce.com ~all""']"|"['dropbox.com.', 'IN', 'TXT', '""google-site-verification=vPdXnwB_snnJ8dqzD0OFEhiy3Vjq2l7qhXA-rnWR1lk""']"|"['dropbox.com.', 'IN', 'TXT', '""google-site-verification=u07OaGer3GQQDKmGdXvEnVDA7hVQJZ3nVglkGqTxnqI""']"|"['dropbox.com.', 'IN', 'TXT', '""google-site-verification=leXlkd4GKqaMP-t93sX2D_mNej1qyME73hyCvyjkbmA""']"|"['dropbox.com.', 'IN', 'TXT', '""google-site-verification=dvbnC9kulo9yolnth_U5l7fMneacmwsmc7T-amaztiY""']"|"['dropbox.com.', 'IN', 'TXT', '""1e6de3584eb44e3e9fde429fb262995bb3f6422cab16daeff7cba598948242b8""']"|"['dropbox.com.', 'IN', 'TXT', '""google-site-verification=8NWlYGBCOsGGZoWB62V0z-I1v92RPDYt5e2MIcIlKOk""']"|"['dropbox.com.', 'IN', 'TXT', '""docusign=c18a935e-b7a7-4ca5-a401-9f7cac288c0b""']"|"['dropbox.com.', 'IN', 'TXT', '""docusign=a3cf77c9-f563-4c9b-8cbb-73c5322feb8e""']"|"['dropbox.com.', 'IN', 'TXT', '""citrix-verification-code=b29deae6-12fa-4939-a5b1-9585f5fc82ba""']"|"['dropbox.com.', 'IN', 'TXT', '""adobe-idp-site-verification=4977108a-46c6-4763-a3cc-b23b3d87e5cc""']"|"['dropbox.com.', 'IN', 'TXT', '""MS=ms91256510""']"
+<<lt>>
+"['dropbox.com.', 'IN', 'MX', '5 alt2.aspmx.l.google.com.']"|"['dropbox.com.', 'IN', 'MX', '5 alt1.aspmx.l.google.com.']"|"['dropbox.com.', 'IN', 'MX', '10 alt4.aspmx.l.google.com.']"|"['dropbox.com.', 'IN', 'MX', '10 alt3.aspmx.l.google.com.']"|"['dropbox.com.', 'IN', 'MX', '1 aspmx.l.google.com.']"
+<<lt>>
+"['bing.com.', 'IN', 'NS', 'dns4.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'dns3.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'dns2.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'dns1.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'ns4-204.azure-dns.info.']"|"['bing.com.', 'IN', 'NS', 'ns3-204.azure-dns.org.']"|"['bing.com.', 'IN', 'NS', 'ns2-204.azure-dns.net.']"|"['bing.com.', 'IN', 'NS', 'ns1-204.azure-dns.com.']"
+<<lt>>
+"['bing.com.', 'IN', 'TXT', '""v=spf1 include:spf.protection.outlook.com -all""']"|"['bing.com.', 'IN', 'TXT', '""v=msv1 t=6097A7EA-53F7-4028-BA76-6869CB284C54""']"|"['bing.com.', 'IN', 'TXT', '""facebook-domain-verification=09yg8uzcfnqnlqekzsbwjxyy8rdck7""']"
+<<lt>>
+"['bing.com.', 'IN', 'MX', '10 bing-com.mail.protection.outlook.com.']"
+<<lt>>
+"['bigtron.net.', 'IN', 'NS', 'ns.gabia.net.']"|"['bigtron.net.', 'IN', 'NS', 'ns1.gabia.co.kr.']"|"['bigtron.net.', 'IN', 'NS', 'ns.gabia.co.kr.']"
+<<lt>>
+"['bigtron.net.', 'IN', 'TXT', '""google-site-verification=0ldyKpco5VDn69c28nAbcD2gOzwZ0BJO13bqNSamMH8""']"|"['bigtron.net.', 'IN', 'TXT', '""v=spf1 include:_spf.google.com ~all""']"
+<<lt>>
+"['bigtron.net.', 'IN', 'MX', '10 alt4.aspmx.l.google.com.']"|"['bigtron.net.', 'IN', 'MX', '10 alt3.aspmx.l.google.com.']"|"['bigtron.net.', 'IN', 'MX', '5 alt2.aspmx.l.google.com.']"|"['bigtron.net.', 'IN', 'MX', '5 alt1.aspmx.l.google.com.']"|"['bigtron.net.', 'IN', 'MX', '1 aspmx.l.google.com.']"
+<<lt>>
+"['adobe.com.', 'IN', 'NS', 'adobe-dns-03.adobe.com.']"|"['adobe.com.', 'IN', 'NS', 'a13-65.akam.net.']"|"['adobe.com.', 'IN', 'NS', 'a1-217.akam.net.']"|"['adobe.com.', 'IN', 'NS', 'a7-64.akam.net.']"|"['adobe.com.', 'IN', 'NS', 'a26-66.akam.net.']"|"['adobe.com.', 'IN', 'NS', 'a28-67.akam.net.']"|"['adobe.com.', 'IN', 'NS', 'a10-64.akam.net.']"|"['adobe.com.', 'IN', 'NS', 'adobe-dns-05.adobe.com.']"|"['adobe.com.', 'IN', 'NS', 'adobe-dns-04.adobe.com.']"|"['adobe.com.', 'IN', 'NS', 'adobe-dns-01.adobe.com.']"
+<<lt>>
+"['adobe.com.', 'IN', 'TXT', '""fastly-domain-delegation-mcmjcm11052020-05-11-2020""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=Rg8rw6QFcht0wbcstENHTQ3h5l_ujrfBPxhuE7cfBFE""']"|"['adobe.com.', 'IN', 'TXT', '""DXpQZzX4rXJPkCKMkVXs/GYPXzPHerZdxcw5iIMxFy9AjmN9DJ0bat/TqD5cRS/CpsN2Rk9y7NH1FfQkGS3vWg==""']"|"['adobe.com.', 'IN', 'TXT', '""_globalsign-domain-verification=lnj0iZGjUp0BOSg71asjUWlkcoKSaMz2EMksT9_CUS""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=WlkKAHcmf9lr7GeIymdFUnFVnlZBe8EsaUc5t3UASuE""']"|"['adobe.com.', 'IN', 'TXT', '""98a8944ee0d54f6798380941906d6241""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=OCQ4NvNmnZ5O-G_OmpA4igVzqwDoRS2qDECNKajvSXQ""']"|"['adobe.com.', 'IN', 'TXT', '""token value: 34150eb3cd1c4415972199b62fd720d0""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=B29h-nx4tgaIP-yB-xsD_JqsPObknGvdOxV0E-yhjhY""']"|"['adobe.com.', 'IN', 'TXT', '""facebook-domain-verification=3rlk6hdq3nk34qcs4bsz8dua9a1hoa""']"|"['adobe.com.', 'IN', 'TXT', '""atlassian-domain-verification=MuhJPcv3bzIQ9BHg1GjhQfmq+1evcqT7fB9gGJn4aOmE2HExlRuwjr5EE7/nABXh""']"|"['adobe.com.', 'IN', 'TXT', '""Fastly-Domain-Verify-as9dfas8d8fa7-sd707sdfasdf908""']"|"['adobe.com.', 'IN', 'TXT', '""_globalsign-domain-verification=4JjiCeoO4ZI71Wz54ZByVZYNBLNCDNPcLz4lv0Qlzf""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=IWlts5bv60RGLZCKTgxClTsuNLB9cT_09-pevXId2o8""']"|"['adobe.com.', 'IN', 'TXT', '""v=spf1 include:a.adobe.com include:b.adobe.com include:c.adobe.com include:spf.protection.outlook.com include:spf.mandrillapp.com include:spf-a.rnmk.com include:servers.mcsv.net include:sendgrid.net include:_spf.sendergen.com IP4:52.70.25.51"" "" IP4:139.138.59.249 IP4:18.220.161.28 IP4:54.240.14.29 IP4:139.138.34.246 IP4:38.105.5.102 IP4:38.105.5.112 IP4:130.117.41.147 IP4:130.117.41.148 IP4:54.164.100.187 IP4:168.245.51.231 IP4:31.25.81.11 -all""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=v-817iF9e0_UdjWiz3gtCfMvYr8CVFt1Ej4QvMq640U""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=Q86EnJZ_pwCfS8VpA1rlQPS3HXZzrcCWGD68zb74InY""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=MnYkALPA4CNieThUZzzp4Hh88H5szHXokxqirdGFFN0""']"|"['adobe.com.', 'IN', 'TXT', '""_github-challenge-adobe=94b215a3c7""']"
+<<lt>>
+"['adobe.com.', 'IN', 'MX', '2 adobe.mail.protection.outlook.com.']"|"['adobe.com.', 'IN', 'MX', '1 adobe-com.mail.protection.outlook.com.']"
+<<lt>>
+"['adnxs.com.', 'IN', 'NS', 'ns2.gslb.com.']"|"['adnxs.com.', 'IN', 'NS', 'ns1.gslb.com.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['doubleclick.net.', 'NS', 'ns2.google.com.']"|"['doubleclick.net.', 'NS', 'ns4.google.com.']"|"['doubleclick.net.', 'NS', 'ns3.google.com.']"|"['doubleclick.net.', 'NS', 'ns1.google.com.']"
+<<lt>>
+"['doubleclick.net.', 'TXT', '""v=spf1 mx ?all""']"|"['doubleclick.net.', 'TXT', '""spf2.0/pra ?all""']"|"['doubleclick.net.', 'TXT', '""google-site-verification:bqEukzgde2Z8kr2wk5OKZNrYrefPAHaoLYBFsi1ShK8""']"
+<<lt>>
+"['doubleclick.net.', 'MX', '50 alt4.aspmx.l.google.com.']"|"['doubleclick.net.', 'MX', '30 alt2.aspmx.l.google.com.']"|"['doubleclick.net.', 'MX', '20 alt1.aspmx.l.google.com.']"|"['doubleclick.net.', 'MX', '40 alt3.aspmx.l.google.com.']"|"['doubleclick.net.', 'MX', '10 aspmx.l.google.com.']"
+<<lt>>
+"['office.net.', 'IN', 'NS', 'nse12.o365filtering.com.']"|"['office.net.', 'IN', 'NS', 'nse21.o365filtering.com.']"|"['office.net.', 'IN', 'NS', 'nse24.o365filtering.com.']"|"['office.net.', 'IN', 'NS', 'ns4-38.azure-dns.info.']"|"['office.net.', 'IN', 'NS', 'nse13.o365filtering.com.']"|"['office.net.', 'IN', 'NS', 'ns1-38.azure-dns.com.']"|"['office.net.', 'IN', 'NS', 'ns2-38.azure-dns.net.']"|"['office.net.', 'IN', 'NS', 'ns3-38.azure-dns.org.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['pitection.com.', 'IN', 'NS', 'ns.gabia.co.kr.']"|"['pitection.com.', 'IN', 'NS', 'ns.gabia.net.']"|"['pitection.com.', 'IN', 'NS', 'ns1.gabia.co.kr.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['datadoghq.com.', 'IN', 'NS', 'ns-1602.awsdns-08.co.uk.']"|"['datadoghq.com.', 'IN', 'NS', 'ns-1169.awsdns-18.org.']"|"['datadoghq.com.', 'IN', 'NS', 'ns-889.awsdns-47.net.']"|"['datadoghq.com.', 'IN', 'NS', 'ns-442.awsdns-55.com.']"
+<<lt>>
+"['datadoghq.com.', 'IN', 'TXT', '""v=spf1 include:_spf.google.com include:amazonses.com include:mktomail.com include:stspg-customer.com include:mailgun.org ~all""']"|"['datadoghq.com.', 'IN', 'TXT', '""teamviewer-sso-verification=11a2dbf6347f4bbe91cb1870956048b2""']"|"['datadoghq.com.', 'IN', 'TXT', '""status-page-domain-verification=hbhfwcmbbcrp""']"|"['datadoghq.com.', 'IN', 'TXT', '""google-site-verification=sm0j7pwYoa-fbR1ys_SUBCTTf72mU7iZOBkcr3fjyXw""']"|"['datadoghq.com.', 'IN', 'TXT', '""google-site-verification=oHyEoGyoQbOCDqUal9iyDMEsqw-pNwnayJi3Ztt1Vj8""']"|"['datadoghq.com.', 'IN', 'TXT', '""google-site-verification=k8GYgee4xb4tNm31B1HWqKf2dPsPpimIwIG8cJKHW84""']"|"['datadoghq.com.', 'IN', 'TXT', '""google-site-verification=gXsZvHtnNMYYNS8zk0hCk5NW7GXZyQcKzkioq4Pn8f0""']"|"['datadoghq.com.', 'IN', 'TXT', '""google-site-verification=dle7k07_jJFZzVV5ixVZQExqcrP3bsSxY5IhCtyY-TE""']"|"['datadoghq.com.', 'IN', 'TXT', '""MS=ms16087494""']"|"['datadoghq.com.', 'IN', 'TXT', '""google-site-verification=G5paIflEQS6QqVKvmK9o0qtCvO1uHA2fJwiSADs9VZs""']"|"['datadoghq.com.', 'IN', 'TXT', '""docusign=f7542c35-82f8-400b-9eeb-27e0cca94ec3""']"|"['datadoghq.com.', 'IN', 'TXT', '""atlassian-domain-verification=DTVi0Qhn2oMVdRsD6wZ1zah7S2SOA653+60/m41EMnz4j1vg8bTMMR60BwefU8gK""']"|"['datadoghq.com.', 'IN', 'TXT', '""_globalsign-domain-verification=HAV0DdFrnLUqX_rElt-qy46djfIXvl0vWWSpvmvNcE""']"|"['datadoghq.com.', 'IN', 'TXT', '""_globalsign-domain-verification=-awtonA3izZim7M9dNMwrH07WjvKC5se353wYCAliP""']"
+<<lt>>
+"['datadoghq.com.', 'IN', 'MX', '70 aspmx5.googlemail.com.']"|"['datadoghq.com.', 'IN', 'MX', '60 aspmx4.googlemail.com.']"|"['datadoghq.com.', 'IN', 'MX', '50 aspmx3.googlemail.com.']"|"['datadoghq.com.', 'IN', 'MX', '40 aspmx2.googlemail.com.']"|"['datadoghq.com.', 'IN', 'MX', '30 alt2.aspmx.l.google.com.']"|"['datadoghq.com.', 'IN', 'MX', '20 alt1.aspmx.l.google.com.']"|"['datadoghq.com.', 'IN', 'MX', '10 aspmx.l.google.com.']"
+<<lt>>
+"['live.com.', 'IN', 'NS', 'ns4-34.azure-dns.info.']"|"['live.com.', 'IN', 'NS', 'nse24.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'nse21.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'nse13.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'nse12.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'ns1-34.azure-dns.com.']"|"['live.com.', 'IN', 'NS', 'ns2-34.azure-dns.net.']"|"['live.com.', 'IN', 'NS', 'ns3-34.azure-dns.org.']"
+<<lt>>
+"['live.com.', 'IN', 'TXT', '""google-site-verification=N9kowue62gCm511Op0_N2LO1JZTcjA2GYzOE22SBaiI""']"|"['live.com.', 'IN', 'TXT', '""google-site-verification=DVGpQUbbQCBRPGlmWiTVUMyQGfLPlEVw6Z4pm39AAj4""']"|"['live.com.', 'IN', 'TXT', '""v=spf1 include:spf-a.hotmail.com include:spf-b.hotmail.com include:spf-c.hotmail.com include:spf-d.hotmail.com include:spf.protection.outlook.com ~all""']"|"['live.com.', 'IN', 'TXT', '""facebook-domain-verification=atvthxwtzc3u4ubnsozavn76cusuaj""']"|"['live.com.', 'IN', 'TXT', '""google-site-verification=0mLTLcpaFxdFNO4m1TfqB2WQ4rGtz7xpPmFwDJ9O_9Q""']"
+<<lt>>
+"['live.com.', 'IN', 'MX', '2 live-com.olc.protection.outlook.com.']"
+<<lt>>
+"['bing.com.', 'IN', 'NS', 'dns4.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'dns3.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'dns2.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'dns1.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'ns4-204.azure-dns.info.']"|"['bing.com.', 'IN', 'NS', 'ns3-204.azure-dns.org.']"|"['bing.com.', 'IN', 'NS', 'ns2-204.azure-dns.net.']"|"['bing.com.', 'IN', 'NS', 'ns1-204.azure-dns.com.']"
+<<lt>>
+"['bing.com.', 'IN', 'TXT', '""v=spf1 include:spf.protection.outlook.com -all""']"|"['bing.com.', 'IN', 'TXT', '""v=msv1 t=6097A7EA-53F7-4028-BA76-6869CB284C54""']"|"['bing.com.', 'IN', 'TXT', '""facebook-domain-verification=09yg8uzcfnqnlqekzsbwjxyy8rdck7""']"
+<<lt>>
+"['bing.com.', 'IN', 'MX', '10 bing-com.mail.protection.outlook.com.']"
+<<lt>>
+"['linkedin.com.', 'IN', 'NS', 'ns4.p43.dynect.net.']"|"['linkedin.com.', 'IN', 'NS', 'ns3.p43.dynect.net.']"|"['linkedin.com.', 'IN', 'NS', 'ns2.p43.dynect.net.']"|"['linkedin.com.', 'IN', 'NS', 'ns1.p43.dynect.net.']"|"['linkedin.com.', 'IN', 'NS', 'dns4.p09.nsone.net.']"|"['linkedin.com.', 'IN', 'NS', 'dns3.p09.nsone.net.']"|"['linkedin.com.', 'IN', 'NS', 'dns2.p09.nsone.net.']"|"['linkedin.com.', 'IN', 'NS', 'dns1.p09.nsone.net.']"
+<<lt>>
+"['linkedin.com.', 'IN', 'TXT', '""miro-verification=260f00146b`6d2ad1bb70d6dc07a077b672badd28""']"|"['linkedin.com.', 'IN', 'TXT', '""AFDVALIDATION=LinkedIn""']"|"['linkedin.com.', 'IN', 'TXT', '""atlassian-domain-verification=dDed2VFvlDajBX8X22w52Jx/W/YLHR81SxUuraa9zNdz4aLjDS/RpfN11w2bxpRc""']"|"['linkedin.com.', 'IN', 'TXT', '""448e0dc03e935ecf66d81f1ce3c26b2f2fea13756c031ffc4be91749107f3a79""']"|"['linkedin.com.', 'IN', 'TXT', '""v=spf1 ip4:199.101.162.0/25 ip4:108.174.3.0/24 ip4:108.174.6.0/24 ip4:108.174.0.0/24 ip6:2620:109:c00d:104::/64 ip6:2620:109:c006:104::/64 ip6:2620:109:c003:104::/64 ip6:2620:119:50c0:207::/64 ip4:199.101.161.130 mx mx:docusign.net ~all""']"|"['linkedin.com.', 'IN', 'TXT', '""bf5fl8sny79w4c70jxp6cp3crkqtr7qk""']"|"['linkedin.com.', 'IN', 'TXT', '""google-site-verification=anx3jpa6VKkTWRJKnglUIzm7UEn-ZCT2WqAfG7h-xOg""']"|"['linkedin.com.', 'IN', 'TXT', '""google-site-verification=8LaIeBMwr6K8qWeaGa4CEmfPKiZDwaT38t5mIrtaroI""']"|"['linkedin.com.', 'IN', 'TXT', '""google-site-verification=xAGz495k8RbGclhamQx1TkZSHDxOaEd95fOjc8xpbTA""']"|"['linkedin.com.', 'IN', 'TXT', '""google-site-verification=VE9BWhjbPPNmbr3ZJcwn5hLTsz7c5KPt3zXdYyaSnSQ""']"|"['linkedin.com.', 'IN', 'TXT', '""docusign=11f01284-dffc-40f9-8d56-57e5261ede3f""']"
+<<lt>>
+"['linkedin.com.', 'IN', 'MX', '15 mail-a.linkedin.com.']"|"['linkedin.com.', 'IN', 'MX', '20 mail.linkedin.com.']"|"['linkedin.com.', 'IN', 'MX', '10 mail-d.linkedin.com.']"|"['linkedin.com.', 'IN', 'MX', '10 mail-c.linkedin.com.']"
+<<lt>>
+"['gravator.com.', 'IN', 'NS', 'ns2.venture.com.']"|"['gravator.com.', 'IN', 'NS', 'ns1.venture.com.']"
+<<lt>>
+"['gravator.com.', 'IN', 'TXT', '""v=spf1 -all""']"
+<<lt>>
+"['gravator.com.', 'IN', 'MX', '0 .']"
+<<lt>>
+"['skype.com.', 'IN', 'NS', 'ns4-205.azure-dns.info.']"|"['skype.com.', 'IN', 'NS', 'ns3-205.azure-dns.org.']"|"['skype.com.', 'IN', 'NS', 'ns2-205.azure-dns.net.']"|"['skype.com.', 'IN', 'NS', 'ns1-205.azure-dns.com.']"
+<<lt>>
+"['skype.com.', 'IN', 'TXT', '""google-site-verification=R9lBFA5SoH0CKpHuBMa4akNqb8E8YF8fim8qpGF22mg""']"|"['skype.com.', 'IN', 'TXT', '""facebook-domain-verification=87pranlm54pxjnpg1lp1nc3bcanv3f""']"|"['skype.com.', 'IN', 'TXT', '""v=msv1 t=6097A7EA-53F7-4028-BA76-6869CB284C54""']"|"['skype.com.', 'IN', 'TXT', '""v=spf1 include:_spf-ssg-a.microsoft.com ip4:91.190.218.48 ip4:91.190.216.100 -all""']"
+<<lt>>
+"['skype.com.', 'IN', 'MX', '10 skype-com.mail.protection.outlook.com.']"
+<<lt>>
+"['microsoftoline.com.', 'NS', 'ns1.bodis.com.']"|"['microsoftoline.com.', 'NS', 'ns2.bodis.com.']"
+<<lt>>
+
+<<lt>>
+"['microsoftoline.com.', 'MX', '10 mx76.m2bp.com.']"|"['microsoftoline.com.', 'MX', '0 mx76.mb1p.com.']"
+<<lt>>
+"['flashtalking.com.', 'NS', 'ns3.p09.dynect.net.']"|"['flashtalking.com.', 'NS', 'ns1.p09.dynect.net.']"|"['flashtalking.com.', 'NS', 'ns4.p09.dynect.net.']"|"['flashtalking.com.', 'NS', 'ns2.p09.dynect.net.']"
+<<lt>>
+"['flashtalking.com.', 'TXT', '""MS=ms46843028""']"|"['flashtalking.com.', 'TXT', '""v=spf1 exists:%{i}.spf.hc3796-46.iphmx.com include:flashtalking.net include:docebosaas.com include:b2b-mail.net include:email2reg.com include:act-on.net include:act-on.com include:contact-list.net include:spf.protection.outlook.com -all""']"|"['flashtalking.com.', 'TXT', '""atlassian-domain-verification=cCwFG1Gixh6ksj0thnJqQxldsZW7nMoRtCXy4L5vVuQbaMmTgOSniOq9PNKZp2Qw""']"|"['flashtalking.com.', 'TXT', '""blitz=mu-b985fac5-0472ceaf-bd443585-2ce0f2aa""']"|"['flashtalking.com.', 'TXT', '""amazonses:okBo4EXYs05Iop1siBM80CEvx1NBa5SpooTGKoCqL4E=""']"
+<<lt>>
+"['flashtalking.com.', 'MX', '0 mx1.hc3796-46.iphmx.com.']"|"['flashtalking.com.', 'MX', '0 mx2.hc3796-46.iphmx.com.']"
+<<lt>>
+"['doubleverify.com.', 'NS', 'nycc-dc02.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'sgcp-dv-dc01.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'a24-64.akam.net.']"|"['doubleverify.com.', 'NS', 'a1-158.akam.net.']"|"['doubleverify.com.', 'NS', 'nycp-dv-dc07.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'a26-65.akam.net.']"|"['doubleverify.com.', 'NS', 'a22-67.akam.net.']"|"['doubleverify.com.', 'NS', 'a5-66.akam.net.']"|"['doubleverify.com.', 'NS', 'nycp-dv-dc04.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'sgcp-dv-dc02.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'dvdcny03.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'nycc-dc01.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'nycp-dns01.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'frcp-dv-dc01.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'a9-67.akam.net.']"|"['doubleverify.com.', 'NS', 'frcp-dv-dc02.doubleverify.prod.']"
+<<lt>>
+"['doubleverify.com.', 'TXT', '""adobe-idp-site-verification=5777e7077aa021fff13a14be21f34a2e63cdb5a9fe91bc13995b730ff12c94c8""']"|"['doubleverify.com.', 'TXT', '""northpass-domain-verification=ae825879144ab624ebcda7a08276ee04""']"|"['doubleverify.com.', 'TXT', '""atlassian-domain-verification=S2QsylNODOC647hz2+i6IZWHQZGuY2m3A/sAU/kyZiNWdwGlXpWoNQkB+/zF0FDG""']"|"['doubleverify.com.', 'TXT', '""google-site-verification=iVrwH6-iIeT2rnheK2ocsVTfvLosfanyJ4hEgnFWlHI""']"|"['doubleverify.com.', 'TXT', '""Probe.ly=73e000a9-a5df-48a5-a8f6-f4f6cee5e2ad""']"|"['doubleverify.com.', 'TXT', '""ZOOM_verify_eRV87FRgSGeEEEdLh5Js1g""']"|"['doubleverify.com.', 'TXT', '""v=spf1 include:relays.gooddata.com include:sent-via.netsuite.com include:onaldv.com include:_spf.salesforce.com include:_spf.google.com include:_spf.psm.knowbe4.com ip4:204.154.110.0/23 ip4:108.60.134.210 ~all""']"|"['doubleverify.com.', 'TXT', '""MS=ms13378337""']"|"['doubleverify.com.', 'TXT', '""tinfoil-site-verification: 07368c6d6911b8038f617dd518501a5654d5d08a=12c7c6ac968a7992c0450370d2bd6a6d422c459d""']"|"['doubleverify.com.', 'TXT', '""MS=9235921E61AE6D9F1A514BD1562DF6929212AD4A\\009""']"|"['doubleverify.com.', 'TXT', '""atlassian-domain-verification=HjhlR3SDqq8UtKGvvXbYPGi4DhIGJv+m+Dz0pgPI2h2XaGUqwc+NgeJ73rmFZwLG""']"|"['doubleverify.com.', 'TXT', '""e9ae689e51780de2c0b9345581b12b339cf0762531ac7ecf66b924d128409aa""']"|"['doubleverify.com.', 'TXT', '""MS=459662B08FE7ABE5CD420C8A0DA91B47F187B31A""']"|"['doubleverify.com.', 'TXT', '""atlassian-domain-verification=HYtLFBZ74v9/kJSRXvExAUfmlR30L2kE7vr66ADGgF5tOVNCxz1aaDdgIdqoo6yk""']"|"['doubleverify.com.', 'TXT', '""dropbox-domain-verification=vq0003kxspf2""']"
+<<lt>>
+"['doubleverify.com.', 'MX', '15 alt2.aspmx.l.google.com.']"|"['doubleverify.com.', 'MX', '10 aspmx.l.google.com.']"|"['doubleverify.com.', 'MX', '20 alt4.aspmx.l.google.com.']"|"['doubleverify.com.', 'MX', '5 mxb-005c0b02.gslb.pphosted.com.']"|"['doubleverify.com.', 'MX', '15 alt1.aspmx.l.google.com.']"|"['doubleverify.com.', 'MX', '20 alt3.aspmx.l.google.com.']"|"['doubleverify.com.', 'MX', '5 mxa-005c0b02.gslb.pphosted.com.']"
+<<lt>>
+"['amazone.com.', 'IN', 'NS', 'pdns3.ultradns.org.']"|"['amazone.com.', 'IN', 'NS', 'pdns6.ultradns.co.uk.']"|"['amazone.com.', 'IN', 'NS', 'ns4.p31.dynect.net.']"|"['amazone.com.', 'IN', 'NS', 'ns1.p31.dynect.net.']"|"['amazone.com.', 'IN', 'NS', 'pdns2.ultradns.net.']"|"['amazone.com.', 'IN', 'NS', 'pdns1.ultradns.net.']"|"['amazone.com.', 'IN', 'NS', 'ns3.p31.dynect.net.']"|"['amazone.com.', 'IN', 'NS', 'ns2.p31.dynect.net.']"|"['amazone.com.', 'IN', 'NS', 'pdns4.ultradns.org.']"|"['amazone.com.', 'IN', 'NS', 'pdns5.ultradns.info.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['googlevideo.com.', 'NS', 'ns4.google.com.']"|"['googlevideo.com.', 'NS', 'ns3.google.com.']"|"['googlevideo.com.', 'NS', 'ns1.google.com.']"|"['googlevideo.com.', 'NS', 'ns2.google.com.']"
+<<lt>>
+"['googlevideo.com.', 'TXT', '""v=spf1 ?all""']"
+<<lt>>
+
+<<lt>>
+"['taboola.com.', 'IN', 'NS', 'ns04.dnsfaster.com.']"|"['taboola.com.', 'IN', 'NS', 'ns03.dnsfaster.com.']"|"['taboola.com.', 'IN', 'NS', 'ns02.dnsfaster.com.']"|"['taboola.com.', 'IN', 'NS', 'ns01.dnsfaster.com.']"|"['taboola.com.', 'IN', 'NS', 'dns4.p05.nsone.net.']"|"['taboola.com.', 'IN', 'NS', 'dns3.p05.nsone.net.']"|"['taboola.com.', 'IN', 'NS', 'dns2.p05.nsone.net.']"|"['taboola.com.', 'IN', 'NS', 'dns1.p05.nsone.net.']"
+<<lt>>
+"['taboola.com.', 'IN', 'TXT', '""v=spf1 ip4:69.72.32.0/20 ip4:74.125.0.0/16 ip4:54.240.0.0/18 ip4:35.191.0.0/16 ip4:72.3.185.0/24 ip4:66.102.0.0/20 ip4:72.14.192.0/18 ip4:172.217.0.0/19 ip4:166.78.68.0/22 ip4:72.32.243.0/24 ip4:66.249.80.0/20 ip4:72.32.154.0/24 ip4:148.105.8.0/21 ip4:198"" "".2.128.0/18 ip4:130.211.0.0/22 ip4:72.32.217.0/24 ip4:108.177.8.0/21 ip4:173.194.0.0/16 ip4:69.169.224.0/20 ip4:35.190.247.0/24 ip4:23.249.208.0/20 include:_s0.taboola.com ~all""']"|"['taboola.com.', 'IN', 'TXT', '""_globalsign-domain-verification=EjPxRpSNAI2an12JHUpXeiMSoted2BhX6p_ljbqWlU""']"|"['taboola.com.', 'IN', 'TXT', '""google-site-verification=WtvTbfD00SqocN9f66FsffUbeXC7FwKDe9BvotdOkxI""']"|"['taboola.com.', 'IN', 'TXT', '""MS=ms65608087""']"|"['taboola.com.', 'IN', 'TXT', '""google-site-verification=QU6wU2G_owHwnEc7mm0PjQoaKkGJiwkqX0mu5uIRkW8""']"|"['taboola.com.', 'IN', 'TXT', '""google-site-verification=Nbis9KGSAEo8DL0DrsrKbaEszIQoMrI3yVsjQpySJ3M""']"|"['taboola.com.', 'IN', 'TXT', '""google-site-verification=N60gm5YnA_5ibrU2k9tH-TJqaVwp-P3sB44ZzWbzxAc""']"|"['taboola.com.', 'IN', 'TXT', '""loom-site-verification=204f0ab818f744c0b907f162ef955d04""']"|"['taboola.com.', 'IN', 'TXT', '""dropbox-domain-verification=83v9pbst2ah0""']"|"['taboola.com.', 'IN', 'TXT', '""ZOOM_verify__4EwWQwfRSulSFzqXd6chA""']"
+<<lt>>
+"['taboola.com.', 'IN', 'MX', '10 aspmx5.googlemail.com.']"|"['taboola.com.', 'IN', 'MX', '10 aspmx4.googlemail.com.']"|"['taboola.com.', 'IN', 'MX', '10 aspmx3.googlemail.com.']"|"['taboola.com.', 'IN', 'MX', '10 aspmx2.googlemail.com.']"|"['taboola.com.', 'IN', 'MX', '5 alt2.aspmx.l.google.com.']"|"['taboola.com.', 'IN', 'MX', '5 alt1.aspmx.l.google.com.']"|"['taboola.com.', 'IN', 'MX', '1 aspmx.l.google.com.']"
+<<lt>>
+"['contextweb.com.', 'IN', 'NS', 'dns4.p02.nsone.net.']"|"['contextweb.com.', 'IN', 'NS', 'dns3.p02.nsone.net.']"|"['contextweb.com.', 'IN', 'NS', 'dns2.p02.nsone.net.']"|"['contextweb.com.', 'IN', 'NS', 'dns1.p02.nsone.net.']"|"['contextweb.com.', 'IN', 'NS', 'ns04.ppointdns.com.']"|"['contextweb.com.', 'IN', 'NS', 'ns03.ppointdns.com.']"|"['contextweb.com.', 'IN', 'NS', 'ns02.ppointdns.com.']"|"['contextweb.com.', 'IN', 'NS', 'ns01.ppointdns.com.']"
+<<lt>>
+"['contextweb.com.', 'IN', 'TXT', '""fastly-domain-delegation-85o4q2h2riwremiv3avf-305201-2020-10-29""']"|"['contextweb.com.', 'IN', 'TXT', '""google-site-verification=efQlFbEtFGdrnDKp_9Ue03Vdi4a96DcAxTVoUi6KBDs""']"|"['contextweb.com.', 'IN', 'TXT', '""v=spf1 mx ip4:198.148.26.24/32 ip4:198.148.26.20/32 ip4:198.148.26.21/32 ip4:198.148.26.19/32 include:spf.protection.outlook.com ~all""']"
+<<lt>>
+"['contextweb.com.', 'IN', 'MX', '0 lga-mx1.pulsepoint.com.']"|"['contextweb.com.', 'IN', 'MX', '5 sjc-ironport.pulsepoint.com.']"
+<<lt>>
+"['office.com.', 'IN', 'NS', 'ns3-32.azure-dns.org.']"|"['office.com.', 'IN', 'NS', 'ns1-32.azure-dns.com.']"|"['office.com.', 'IN', 'NS', 'ns4-32.azure-dns.info.']"|"['office.com.', 'IN', 'NS', 'nse12.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'nse13.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'nse21.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'nse24.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'ns2-32.azure-dns.net.']"
+<<lt>>
+"['office.com.', 'IN', 'TXT', '""google-site-verification=zqthuNzyDukN37Znr1L5xdDKHo7KZUL2LTyOqzU7cFo""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=9aqt6mNhLx_inDlQjEfPiqq_TYfy72IFpoUh5_gijEg""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=WiCZ6HhPFmPMk5PTkdpSnevgiRttL2tQ-7QA_Z81JRk""']"|"['office.com.', 'IN', 'TXT', '""facebook-domain-verification=h6ulkdsze2qhdtbdnivt3lilquemgc""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=ntjPAtTot4dDzv9Z7WpQYYSlgVajPuBZx0FoZyRE8q8""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=iJN6qYrMLZmqRE70EPwnmUtT7qW3Rs-X3_wgil1YQjw""']"
+<<lt>>
+
+<<lt>>
+"['office365.com.', 'IN', 'NS', 'ns3-38.azure-dns.org.']"|"['office365.com.', 'IN', 'NS', 'ns2-38.azure-dns.net.']"|"['office365.com.', 'IN', 'NS', 'ns4-38.azure-dns.info.']"|"['office365.com.', 'IN', 'NS', 'nse24.o365filtering.com.']"|"['office365.com.', 'IN', 'NS', 'nse21.o365filtering.com.']"|"['office365.com.', 'IN', 'NS', 'nse13.o365filtering.com.']"|"['office365.com.', 'IN', 'NS', 'nse12.o365filtering.com.']"|"['office365.com.', 'IN', 'NS', 'ns1-38.azure-dns.com.']"
+<<lt>>
+"['office365.com.', 'IN', 'TXT', '""officeprodes.azurewebsites.net""']"|"['office365.com.', 'IN', 'TXT', '""google-site-verification=u9PqvuplbTIYlwiMAzJWnRRtHYoAlaTX5GMtRRXqWXA""']"|"['office365.com.', 'IN', 'TXT', '""v=spf1 include:spf.protection.outlook.com ~all""']"
+<<lt>>
+
+<<lt>>
+"['github.com.', 'IN', 'NS', 'ns-520.awsdns-01.net.']"|"['github.com.', 'IN', 'NS', 'ns-421.awsdns-52.com.']"|"['github.com.', 'IN', 'NS', 'ns-1707.awsdns-21.co.uk.']"|"['github.com.', 'IN', 'NS', 'ns-1283.awsdns-32.org.']"|"['github.com.', 'IN', 'NS', 'dns4.p08.nsone.net.']"|"['github.com.', 'IN', 'NS', 'dns3.p08.nsone.net.']"|"['github.com.', 'IN', 'NS', 'dns2.p08.nsone.net.']"|"['github.com.', 'IN', 'NS', 'dns1.p08.nsone.net.']"
+<<lt>>
+"['github.com.', 'IN', 'TXT', '""v=spf1 ip4:192.30.252.0/22 include:_spf.google.com include:esp.github.com include:servers.mcsv.net include:_spf.salesforce.com  include:spf.protection.outlook.com ~all""']"|"['github.com.', 'IN', 'TXT', '""docusign=087098e3-3d46-47b7-9b4e-8a23028154cd""']"|"['github.com.', 'IN', 'TXT', '""MS=ms58704441""']"|"['github.com.', 'IN', 'TXT', '""MS=ms44452932""']"|"['github.com.', 'IN', 'TXT', '""MS=6BF03E6AF5CB689E315FB6199603BABF2C88D805""']"
+<<lt>>
+"['github.com.', 'IN', 'MX', '5 alt2.aspmx.l.google.com.']"|"['github.com.', 'IN', 'MX', '5 alt1.aspmx.l.google.com.']"|"['github.com.', 'IN', 'MX', '10 alt4.aspmx.l.google.com.']"|"['github.com.', 'IN', 'MX', '10 alt3.aspmx.l.google.com.']"|"['github.com.', 'IN', 'MX', '1 aspmx.l.google.com.']"
+<<lt>>
+"['googlesyndication.com.', 'NS', 'ns2.google.com.']"|"['googlesyndication.com.', 'NS', 'ns4.google.com.']"|"['googlesyndication.com.', 'NS', 'ns3.google.com.']"|"['googlesyndication.com.', 'NS', 'ns1.google.com.']"
+<<lt>>
+"['googlesyndication.com.', 'TXT', '""v=spf1 include:_spf.google.com ?all""']"
+<<lt>>
+"['googlesyndication.com.', 'MX', '30 alt2.aspmx.l.google.com.']"|"['googlesyndication.com.', 'MX', '20 alt1.aspmx.l.google.com.']"|"['googlesyndication.com.', 'MX', '40 alt3.aspmx.l.google.com.']"|"['googlesyndication.com.', 'MX', '50 alt4.aspmx.l.google.com.']"|"['googlesyndication.com.', 'MX', '10 aspmx.l.google.com.']"
+<<lt>>
+"['kyobobook.co.kr.', 'NS', 'ns2.kyobobook.co.kr.']"|"['kyobobook.co.kr.', 'NS', 'ns1.kyobobook.co.kr.']"
+<<lt>>
+"['kyobobook.co.kr.', 'TXT', '""v=spf1 ip4:211.189.37.6 ip4:211.189.37.8 ip4:211.189.36.154 ip4:211.189.36.155 ip4:1.232.127.231 ip4:1.232.127.232 ip4:1.232.127.226 ip4:1.232.127.227 ip4:211.189.37.9 ip4:1.209.119.81 ip4:1.232.127.233 ip4:1.232.127.234 ~all""']"|"['kyobobook.co.kr.', 'TXT', '""google-site-verification=nhubQ7wk_whVNqFAlyMH-nxVk76cEBk5YxqOGyCZyg4""']"
+<<lt>>
+"['kyobobook.co.kr.', 'MX', '10 mail.kyobobook.co.kr.']"|"['kyobobook.co.kr.', 'MX', '5 clean.kyobobook.co.kr.']"
+<<lt>>
+"['facebook.com.', 'IN', 'NS', 'a.ns.facebook.com.']"|"['facebook.com.', 'IN', 'NS', 'b.ns.facebook.com.']"|"['facebook.com.', 'IN', 'NS', 'c.ns.facebook.com.']"|"['facebook.com.', 'IN', 'NS', 'd.ns.facebook.com.']"
+<<lt>>
+"['facebook.com.', 'IN', 'TXT', '""google-site-verification=wdH5DTJTc9AYNwVunSVFeK0hYDGUIEOGb-RReU6pJlY""']"|"['facebook.com.', 'IN', 'TXT', '""google-site-verification=A2WZWCNQHrGV_TWwKh6KHY90tY0SHZo_RnyMJoDaG0s""']"|"['facebook.com.', 'IN', 'TXT', '""v=spf1 redirect=_spf.facebook.com""']"
+<<lt>>
+"['facebook.com.', 'IN', 'MX', '10 smtpin.vvv.facebook.com.']"
+<<lt>>
+"['nortoon.com.', 'IN', 'NS', 'ns1.domainmx.com.']"|"['nortoon.com.', 'IN', 'NS', 'ns2.domainmx.com.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['yes24.com.', 'IN', 'NS', 'ns2.lgdacom.net.']"|"['yes24.com.', 'IN', 'NS', 'ns1.kidc.net.']"
+<<lt>>
+"['yes24.com.', 'IN', 'TXT', '""v=spf1 ip4:61.111.13.101 ip4:61.111.13.100 ip4:61.111.13.129 ip4:61.111.13.108 ip4:61.111.13.106 ip4:61.111.13.152 ip4:61.111.13.109 ip4:61.111.13.110 ip4:222.122.224.34 ip4:222.122.224.35 ip4:222.122.224.36 ip4:211.237.15.154 ip4:114.108.168.79 -all""']"|"['yes24.com.', 'IN', 'TXT', '""MS=ms90735056""']"
+<<lt>>
+"['yes24.com.', 'IN', 'MX', '20 smail.yes24.com.']"
+<<lt>>
+"['googledrive.com.', 'NS', 'ns2.google.com.']"|"['googledrive.com.', 'NS', 'ns4.google.com.']"|"['googledrive.com.', 'NS', 'ns1.google.com.']"|"['googledrive.com.', 'NS', 'ns3.google.com.']"
+<<lt>>
+"['googledrive.com.', 'TXT', '""v=spf1 -all""']"
+<<lt>>
+
+<<lt>>
+"['011st.com.', 'IN', 'NS', 'ns-1216.awsdns-24.org.']"|"['011st.com.', 'IN', 'NS', 'ns-583.awsdns-08.net.']"|"['011st.com.', 'IN', 'NS', 'ns-488.awsdns-61.com.']"|"['011st.com.', 'IN', 'NS', 'ns-1732.awsdns-24.co.uk.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['66kc04.com.', 'IN', 'NS', 'f1g1ns2.dnspod.net.']"|"['66kc04.com.', 'IN', 'NS', 'f1g1ns1.dnspod.net.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['apple.com.', 'IN', 'NS', 'd.ns.apple.com.']"|"['apple.com.', 'IN', 'NS', 'c.ns.apple.com.']"|"['apple.com.', 'IN', 'NS', 'a.ns.apple.com.']"|"['apple.com.', 'IN', 'NS', 'b.ns.apple.com.']"
+<<lt>>
+"['apple.com.', 'IN', 'TXT', '""miro-verification=2494d255c4c50b1e521650a0659cbf3fa08b0072""']"|"['apple.com.', 'IN', 'TXT', '""cisco-ci-domain-verification=6f3bfb849796a518061f8e8c4356f687a138502d86db742791685059176547dd""']"|"['apple.com.', 'IN', 'TXT', '""webexdomainverification.7T0ZL=90f57a61-f0a3-45dc-b175-de0a0069b403""']"|"['apple.com.', 'IN', 'TXT', '""apple-domain-verification=X5Jt76bn3Dnmgzjj""']"|"['apple.com.', 'IN', 'TXT', '""v=spf1 include:_spf.apple.com include:_spf-txn.apple.com ~all""']"|"['apple.com.', 'IN', 'TXT', '""webexdomainverification.=dce40a41-e0b7-400d-8882-089877764843""']"|"['apple.com.', 'IN', 'TXT', '""webexdomainverification.=1e7d625d-ca37-44c8-b3df-476ba2ffa2ab""']"|"['apple.com.', 'IN', 'TXT', '""facebook-domain-verification=n6cqjfucq6plswmtfbwnbbeu1qiq3v""']"|"['apple.com.', 'IN', 'TXT', '""adobe-idp-site-verification=6bd5e74c-a3a0-4781-b2e1-e95399b5e11c""']"|"['apple.com.', 'IN', 'TXT', '""google-site-verification=L5kkMdiFI8npvb6KlHui84fJaCw5G64DWhaDRIAT4_c""']"
+<<lt>>
+"['apple.com.', 'IN', 'MX', '10 ma1-aaemail-dr-lapp03.apple.com.']"|"['apple.com.', 'IN', 'MX', '10 ma1-aaemail-dr-lapp02.apple.com.']"|"['apple.com.', 'IN', 'MX', '10 ma1-aaemail-dr-lapp01.apple.com.']"|"['apple.com.', 'IN', 'MX', '10 nwk-aaemail-lapp03.apple.com.']"|"['apple.com.', 'IN', 'MX', '10 nwk-aaemail-lapp02.apple.com.']"|"['apple.com.', 'IN', 'MX', '10 nwk-aaemail-lapp01.apple.com.']"
+<<lt>>
+"['google-analytics.com.', 'NS', 'ns3.google.com.']"|"['google-analytics.com.', 'NS', 'ns1.google.com.']"|"['google-analytics.com.', 'NS', 'ns2.google.com.']"|"['google-analytics.com.', 'NS', 'ns4.google.com.']"
+<<lt>>
+"['google-analytics.com.', 'TXT', '""v=spf1 -all""']"
+<<lt>>
+
+<<lt>>
+"['icloud.com.', 'IN', 'NS', 'd.ns.apple.com.']"|"['icloud.com.', 'IN', 'NS', 'c.ns.apple.com.']"|"['icloud.com.', 'IN', 'NS', 'b.ns.apple.com.']"|"['icloud.com.', 'IN', 'NS', 'a.ns.apple.com.']"
+<<lt>>
+"['icloud.com.', 'IN', 'TXT', '""google-site-verification=knAEOH4QxR29I4gjRkpkvmUmP2AA7WrDk8Kq0wu9g9o""']"|"['icloud.com.', 'IN', 'TXT', '""v=spf1 ip4:17.36.0.0/16 ip4:17.41.0.0/16 ip4:17.58.0.0/16 ip4:17.110.0.0/15 ip4:17.111.110.0/23 ip4:17.120.0.0/16 ip4:17.133.0.0/16 ip4:17.139.0.0/16 ip4:17.142.0.0/15"" "" ip4:17.151.1.0/24 ip4:17.158.0.0/15 ip4:17.162.0.0/15 ip4:17.164.0.0/16 ip4:17.171.37.0/24 ip4:17.172.0.0/16 ip4:17.179.168.0/23 ip4:144.178.36.0/24 ip4:144.178.38.0/24 ~all""']"
+<<lt>>
+"['icloud.com.', 'IN', 'MX', '10 mx01.mail.icloud.com.']"|"['icloud.com.', 'IN', 'MX', '10 mx02.mail.icloud.com.']"
+<<lt>>
+"['wooribank.com.', 'IN', 'NS', 'ns2.kornet.net.']"|"['wooribank.com.', 'IN', 'NS', 'xns2.hananet.net.']"|"['wooribank.com.', 'IN', 'NS', 'ns2.lguplus.com.']"|"['wooribank.com.', 'IN', 'NS', 'ns2.epidc.co.kr.']"
+<<lt>>
+"['wooribank.com.', 'IN', 'TXT', '""google-site-verification=MsY0qrc-NysM6lGjFB4kcfozlj9l1QkiRqryX_tZAKg""']"|"['wooribank.com.', 'IN', 'TXT', '""v=spf1 ip4:210.182.9.104 ip4:210.182.9.105 ip4:203.248.67.13 ip4:203.248.67.14 ip4:203.248.67.121 ip4:210.182.9.151 ip4:210.182.9.101 ip4:203.248.67.120 ip4:1.232.5.1 ip4:52.193.80.149 ip4:52.69.18.79 ip4:118.218.194.42 ip4:118.218.194.0/24 ~all""']"
+<<lt>>
+"['wooribank.com.', 'IN', 'MX', '5 mail2.wooribank.com.']"
+<<lt>>
+"['callrail.com.', 'IN', 'NS', 'ns-1506.awsdns-60.org.']"|"['callrail.com.', 'IN', 'NS', 'ns-843.awsdns-41.net.']"|"['callrail.com.', 'IN', 'NS', 'ns-1957.awsdns-52.co.uk.']"|"['callrail.com.', 'IN', 'NS', 'ns-161.awsdns-20.com.']"
+<<lt>>
+"['callrail.com.', 'IN', 'TXT', '""v=spf1 a mx include:sendgrid.net include:support.zendesk.com include:_spf.google.com include:mktomail.com include:mg-spf.greenhouse.io ~all""']"|"['callrail.com.', 'IN', 'TXT', '""236B087DB8""']"|"['callrail.com.', 'IN', 'TXT', '""status-page-domain-verification=dmkccmhphjpc""']"|"['callrail.com.', 'IN', 'TXT', '""onetrust-domain-verification=2bb9073d13634b749606c05636745272""']"|"['callrail.com.', 'IN', 'TXT', '""h1-domain-verification=xtFLTXgLEVDUR4Y7MnE6gERCfMbW2uo1X47KZqo1REg4NcNu""']"|"['callrail.com.', 'IN', 'TXT', '""google-site-verification=8s3YA0XCyvI7fnyBAC5dQbvOjys9g3V6xHJ8dF3mYj8""']"|"['callrail.com.', 'IN', 'TXT', '""drift-domain-verification=0ca642158d49c8475bda5295540ac255accc3560f0385a2cfa04995c7830c49e""']"
+<<lt>>
+"['callrail.com.', 'IN', 'MX', '5 alt2.aspmx.l.google.com.']"|"['callrail.com.', 'IN', 'MX', '5 alt1.aspmx.l.google.com.']"|"['callrail.com.', 'IN', 'MX', '10 aspmx3.googlemail.com.']"|"['callrail.com.', 'IN', 'MX', '10 aspmx2.googlemail.com.']"|"['callrail.com.', 'IN', 'MX', '1 aspmx.l.google.com.']"
+<<lt>>
+"['maxpcsecure.com.', 'NS', 'ns1045.ui-dns.biz.']"|"['maxpcsecure.com.', 'NS', 'ns1045.ui-dns.de.']"|"['maxpcsecure.com.', 'NS', 'ns1045.ui-dns.org.']"|"['maxpcsecure.com.', 'NS', 'ns1045.ui-dns.com.']"
+<<lt>>
+"['maxpcsecure.com.', 'TXT', '""amazonses:pjDFEx5fzy6xuzr7++gd3b74G17dtrTq3RX+UYFCBHo=""']"|"['maxpcsecure.com.', 'TXT', '""v=spf1 include:mailgun.org ~all""']"
+<<lt>>
+"['maxpcsecure.com.', 'MX', '10 mx00.ionos.com.']"|"['maxpcsecure.com.', 'MX', '10 mx01.ionos.com.']"
+<<lt>>
+"['coronaboard.kr.', 'IN', 'NS', 'roan.ns.cloudflare.com.']"|"['coronaboard.kr.', 'IN', 'NS', 'laura.ns.cloudflare.com.']"
+<<lt>>
+"['coronaboard.kr.', 'IN', 'TXT', '""google-site-verification=ka2LWtI-1OC7mzr9OWoTYZ_nIZNqxrO8ov5Ru7wOlKE""']"
+<<lt>>
+
+<<lt>>
+"['cdpn.io.', 'IN', 'NS', 'kristin.ns.cloudflare.com.']"|"['cdpn.io.', 'IN', 'NS', 'albert.ns.cloudflare.com.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['amazon.com.', 'IN', 'NS', 'pdns6.ultradns.co.uk.']"|"['amazon.com.', 'IN', 'NS', 'ns1.p31.dynect.net.']"|"['amazon.com.', 'IN', 'NS', 'ns4.p31.dynect.net.']"|"['amazon.com.', 'IN', 'NS', 'ns3.p31.dynect.net.']"|"['amazon.com.', 'IN', 'NS', 'ns2.p31.dynect.net.']"|"['amazon.com.', 'IN', 'NS', 'pdns1.ultradns.net.']"
+<<lt>>
+"['amazon.com.', 'IN', 'TXT', '""facebook-domain-verification=d9u57u52gylohx845ogo1axzpywpmq""']"|"['amazon.com.', 'IN', 'TXT', '""MS=4B600B22799EB2CAC0D8FF0A3A3CAECA5EE2BF3A""']"|"['amazon.com.', 'IN', 'TXT', '""google-site-verification=9vpzZueNucS8hPqoGpZ5r10Nr2_sLMRG3AnDtNlucc4""']"|"['amazon.com.', 'IN', 'TXT', '""google-site-verification=14WGW2MdNMxchG8PlinF7LgqqE0OwwHqOq0HKhb7rDQ""']"|"['amazon.com.', 'IN', 'TXT', '""v=spf1 include:spf1.amazon.com include:spf2.amazon.com include:amazonses.com ~all""']"|"['amazon.com.', 'IN', 'TXT', '""spf2.0/pra include:spf1.amazon.com include:spf2.amazon.com include:amazonses.com -all""']"
+<<lt>>
+"['amazon.com.', 'IN', 'MX', '5 amazon-smtp.amazon.com.']"
+<<lt>>
+"['kite.com.', 'IN', 'NS', 'ns-1142.awsdns-14.org.']"|"['kite.com.', 'IN', 'NS', 'ns-845.awsdns-41.net.']"|"['kite.com.', 'IN', 'NS', 'ns-1996.awsdns-57.co.uk.']"|"['kite.com.', 'IN', 'NS', 'ns-137.awsdns-17.com.']"
+<<lt>>
+"['kite.com.', 'IN', 'TXT', '""v=spf1 include:customeriomail.com ~all""']"|"['kite.com.', 'IN', 'TXT', '""google-site-verification=Tb4fsK4lwIzZ-fXly7sY8XzIyCD_B7xlgErKFN2tT1M""']"|"['kite.com.', 'IN', 'TXT', '""facebook-domain-verification=62g0niyph13i36plxce6j9fcqkw76o""']"|"['kite.com.', 'IN', 'TXT', '""MS=1ABFFC0ED74C130EE3F3CF47EB5EA342CEF4E819""']"
+<<lt>>
+"['kite.com.', 'IN', 'MX', '1 aspmx.l.google.com.']"|"['kite.com.', 'IN', 'MX', '5 alt2.aspmx.l.google.com.']"|"['kite.com.', 'IN', 'MX', '5 alt1.aspmx.l.google.com.']"|"['kite.com.', 'IN', 'MX', '32767 ms32450678.msv1.invalid.']"|"['kite.com.', 'IN', 'MX', '10 alt4.aspmx.l.google.com.']"|"['kite.com.', 'IN', 'MX', '10 alt3.aspmx.l.google.com.']"
+<<lt>>
+"['pstatic.net.', 'IN', 'NS', 'ns1.naver.com.']"|"['pstatic.net.', 'IN', 'NS', 'ns2.naver.com.']"|"['pstatic.net.', 'IN', 'NS', 'e-ns.naver.com.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['gvt2.com.', 'IN', 'NS', 'ns3.google.com.']"|"['gvt2.com.', 'IN', 'NS', 'ns2.google.com.']"|"['gvt2.com.', 'IN', 'NS', 'ns4.google.com.']"|"['gvt2.com.', 'IN', 'NS', 'ns1.google.com.']"
+<<lt>>
+"['gvt2.com.', 'IN', 'TXT', '""v=spf1 -all""']"
+<<lt>>
+
+<<lt>>
+"['adobe.io.', 'IN', 'NS', 'ns-1001.awsdns-61.net.']"|"['adobe.io.', 'IN', 'NS', 'ns-67.awsdns-08.com.']"|"['adobe.io.', 'IN', 'NS', 'ns-1882.awsdns-43.co.uk.']"|"['adobe.io.', 'IN', 'NS', 'ns-1159.awsdns-16.org.']"
+<<lt>>
+"['adobe.io.', 'IN', 'TXT', '""v=spf1 include:amazonses.com -all""']"|"['adobe.io.', 'IN', 'TXT', '""tn2rh7ty1t1870l38gl2t8x0wp413n6y""']"|"['adobe.io.', 'IN', 'TXT', '""by1c76jcvvtn0m7kcblv8c8xzk82n4kv""']"|"['adobe.io.', 'IN', 'TXT', '""b2c6caadfdbe4133b3f19e912154f522""']"|"['adobe.io.', 'IN', 'TXT', '""_globalsign-domain-verification=fglY8fW9FHwF88bTrkylG5-G165KrJe3yCIjKnAR9J""']"|"['adobe.io.', 'IN', 'TXT', '""63148376f85b40b0b02b94ffaf3ad2c6""']"
+<<lt>>
+
+<<lt>>
+"['exp-tas.com.', 'IN', 'NS', 'ns2-05.azure-dns.net.']"|"['exp-tas.com.', 'IN', 'NS', 'ns1-05.azure-dns.com.']"|"['exp-tas.com.', 'IN', 'NS', 'ns4-05.azure-dns.info.']"|"['exp-tas.com.', 'IN', 'NS', 'ns3-05.azure-dns.org.']"
+<<lt>>
+"['exp-tas.com.', 'IN', 'TXT', '""AFDVALIDATION=ExP""']"
+<<lt>>
+
+<<lt>>
+"['gstatic.com.', 'IN', 'NS', 'ns4.google.com.']"|"['gstatic.com.', 'IN', 'NS', 'ns2.google.com.']"|"['gstatic.com.', 'IN', 'NS', 'ns1.google.com.']"|"['gstatic.com.', 'IN', 'NS', 'ns3.google.com.']"
+<<lt>>
+"['gstatic.com.', 'IN', 'TXT', '""v=spf1 ?all""']"
+<<lt>>
+
+<<lt>>
+"['office.com.', 'IN', 'NS', 'ns3-32.azure-dns.org.']"|"['office.com.', 'IN', 'NS', 'ns1-32.azure-dns.com.']"|"['office.com.', 'IN', 'NS', 'ns4-32.azure-dns.info.']"|"['office.com.', 'IN', 'NS', 'nse12.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'nse13.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'nse21.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'nse24.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'ns2-32.azure-dns.net.']"
+<<lt>>
+"['office.com.', 'IN', 'TXT', '""google-site-verification=zqthuNzyDukN37Znr1L5xdDKHo7KZUL2LTyOqzU7cFo""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=9aqt6mNhLx_inDlQjEfPiqq_TYfy72IFpoUh5_gijEg""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=WiCZ6HhPFmPMk5PTkdpSnevgiRttL2tQ-7QA_Z81JRk""']"|"['office.com.', 'IN', 'TXT', '""facebook-domain-verification=h6ulkdsze2qhdtbdnivt3lilquemgc""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=ntjPAtTot4dDzv9Z7WpQYYSlgVajPuBZx0FoZyRE8q8""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=iJN6qYrMLZmqRE70EPwnmUtT7qW3Rs-X3_wgil1YQjw""']"
+<<lt>>
+
+<<lt>>
+"['pinterest.co.kr.', 'NS', 'ns4.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns8.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns3.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns7.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns2.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns6.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns1.pinterest.com.']"|"['pinterest.co.kr.', 'NS', 'ns5.pinterest.com.']"
+<<lt>>
+"['pinterest.co.kr.', 'TXT', '""ccbf0dbbadcd41acb6d0c7dc4db6ea0e""']"|"['pinterest.co.kr.', 'TXT', '""v=spf1 redirect=_spf.pinterest.co.kr""']"
+<<lt>>
+
+<<lt>>
+"['live.com.', 'IN', 'NS', 'ns4-34.azure-dns.info.']"|"['live.com.', 'IN', 'NS', 'nse24.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'nse21.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'nse13.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'nse12.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'ns1-34.azure-dns.com.']"|"['live.com.', 'IN', 'NS', 'ns2-34.azure-dns.net.']"|"['live.com.', 'IN', 'NS', 'ns3-34.azure-dns.org.']"
+<<lt>>
+"['live.com.', 'IN', 'TXT', '""google-site-verification=N9kowue62gCm511Op0_N2LO1JZTcjA2GYzOE22SBaiI""']"|"['live.com.', 'IN', 'TXT', '""google-site-verification=DVGpQUbbQCBRPGlmWiTVUMyQGfLPlEVw6Z4pm39AAj4""']"|"['live.com.', 'IN', 'TXT', '""v=spf1 include:spf-a.hotmail.com include:spf-b.hotmail.com include:spf-c.hotmail.com include:spf-d.hotmail.com include:spf.protection.outlook.com ~all""']"|"['live.com.', 'IN', 'TXT', '""facebook-domain-verification=atvthxwtzc3u4ubnsozavn76cusuaj""']"|"['live.com.', 'IN', 'TXT', '""google-site-verification=0mLTLcpaFxdFNO4m1TfqB2WQ4rGtz7xpPmFwDJ9O_9Q""']"
+<<lt>>
+"['live.com.', 'IN', 'MX', '2 live-com.olc.protection.outlook.com.']"
+<<lt>>
+"['windowsupdate.com.', 'NS', 'ns4-205.azure-dns.info.']"|"['windowsupdate.com.', 'NS', 'ns3-205.azure-dns.org.']"|"['windowsupdate.com.', 'NS', 'ns2-205.azure-dns.net.']"|"['windowsupdate.com.', 'NS', 'ns1-205.azure-dns.com.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['msedge.net.', 'IN', 'NS', 'ns4.msedge.net.']"|"['msedge.net.', 'IN', 'NS', 'ns3.msedge.net.']"|"['msedge.net.', 'IN', 'NS', 'ns2.msedge.net.']"|"['msedge.net.', 'IN', 'NS', 'ns1.msedge.net.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['dropbox.com.', 'IN', 'NS', 'ns-564.awsdns-06.net.']"|"['dropbox.com.', 'IN', 'NS', 'ns-315.awsdns-39.com.']"|"['dropbox.com.', 'IN', 'NS', 'ns-1949.awsdns-51.co.uk.']"|"['dropbox.com.', 'IN', 'NS', 'ns-1162.awsdns-17.org.']"
+<<lt>>
+"['dropbox.com.', 'IN', 'TXT', '""v=spf1 ip4:45.58.64.0/20 ip4:185.45.8.0/22 ip4:162.125.0.0/16 ip4:199.47.216.0/22 ip4:108.160.160.0/20 ip4:205.189.0.0/24 ip4:160.34.15.16/28 ip4:52.5.134.202 ip6:2620:c6:8000::/48 include:amazonses.com include:_spf.google.com include:mail.zendesk.com"" "" include:mktomail.com include:_spf.salesforce.com ~all""']"|"['dropbox.com.', 'IN', 'TXT', '""google-site-verification=vPdXnwB_snnJ8dqzD0OFEhiy3Vjq2l7qhXA-rnWR1lk""']"|"['dropbox.com.', 'IN', 'TXT', '""google-site-verification=u07OaGer3GQQDKmGdXvEnVDA7hVQJZ3nVglkGqTxnqI""']"|"['dropbox.com.', 'IN', 'TXT', '""google-site-verification=leXlkd4GKqaMP-t93sX2D_mNej1qyME73hyCvyjkbmA""']"|"['dropbox.com.', 'IN', 'TXT', '""google-site-verification=dvbnC9kulo9yolnth_U5l7fMneacmwsmc7T-amaztiY""']"|"['dropbox.com.', 'IN', 'TXT', '""1e6de3584eb44e3e9fde429fb262995bb3f6422cab16daeff7cba598948242b8""']"|"['dropbox.com.', 'IN', 'TXT', '""google-site-verification=8NWlYGBCOsGGZoWB62V0z-I1v92RPDYt5e2MIcIlKOk""']"|"['dropbox.com.', 'IN', 'TXT', '""docusign=c18a935e-b7a7-4ca5-a401-9f7cac288c0b""']"|"['dropbox.com.', 'IN', 'TXT', '""docusign=a3cf77c9-f563-4c9b-8cbb-73c5322feb8e""']"|"['dropbox.com.', 'IN', 'TXT', '""citrix-verification-code=b29deae6-12fa-4939-a5b1-9585f5fc82ba""']"|"['dropbox.com.', 'IN', 'TXT', '""adobe-idp-site-verification=4977108a-46c6-4763-a3cc-b23b3d87e5cc""']"|"['dropbox.com.', 'IN', 'TXT', '""MS=ms91256510""']"
+<<lt>>
+"['dropbox.com.', 'IN', 'MX', '5 alt2.aspmx.l.google.com.']"|"['dropbox.com.', 'IN', 'MX', '5 alt1.aspmx.l.google.com.']"|"['dropbox.com.', 'IN', 'MX', '10 alt4.aspmx.l.google.com.']"|"['dropbox.com.', 'IN', 'MX', '10 alt3.aspmx.l.google.com.']"|"['dropbox.com.', 'IN', 'MX', '1 aspmx.l.google.com.']"
+<<lt>>
+"['bing.com.', 'IN', 'NS', 'dns4.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'dns3.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'dns2.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'dns1.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'ns4-204.azure-dns.info.']"|"['bing.com.', 'IN', 'NS', 'ns3-204.azure-dns.org.']"|"['bing.com.', 'IN', 'NS', 'ns2-204.azure-dns.net.']"|"['bing.com.', 'IN', 'NS', 'ns1-204.azure-dns.com.']"
+<<lt>>
+"['bing.com.', 'IN', 'TXT', '""v=spf1 include:spf.protection.outlook.com -all""']"|"['bing.com.', 'IN', 'TXT', '""v=msv1 t=6097A7EA-53F7-4028-BA76-6869CB284C54""']"|"['bing.com.', 'IN', 'TXT', '""facebook-domain-verification=09yg8uzcfnqnlqekzsbwjxyy8rdck7""']"
+<<lt>>
+"['bing.com.', 'IN', 'MX', '10 bing-com.mail.protection.outlook.com.']"
+<<lt>>
+"['bigtron.net.', 'IN', 'NS', 'ns.gabia.net.']"|"['bigtron.net.', 'IN', 'NS', 'ns1.gabia.co.kr.']"|"['bigtron.net.', 'IN', 'NS', 'ns.gabia.co.kr.']"
+<<lt>>
+"['bigtron.net.', 'IN', 'TXT', '""google-site-verification=0ldyKpco5VDn69c28nAbcD2gOzwZ0BJO13bqNSamMH8""']"|"['bigtron.net.', 'IN', 'TXT', '""v=spf1 include:_spf.google.com ~all""']"
+<<lt>>
+"['bigtron.net.', 'IN', 'MX', '10 alt4.aspmx.l.google.com.']"|"['bigtron.net.', 'IN', 'MX', '10 alt3.aspmx.l.google.com.']"|"['bigtron.net.', 'IN', 'MX', '5 alt2.aspmx.l.google.com.']"|"['bigtron.net.', 'IN', 'MX', '5 alt1.aspmx.l.google.com.']"|"['bigtron.net.', 'IN', 'MX', '1 aspmx.l.google.com.']"
+<<lt>>
+"['adobe.com.', 'IN', 'NS', 'adobe-dns-03.adobe.com.']"|"['adobe.com.', 'IN', 'NS', 'a13-65.akam.net.']"|"['adobe.com.', 'IN', 'NS', 'a1-217.akam.net.']"|"['adobe.com.', 'IN', 'NS', 'a7-64.akam.net.']"|"['adobe.com.', 'IN', 'NS', 'a26-66.akam.net.']"|"['adobe.com.', 'IN', 'NS', 'a28-67.akam.net.']"|"['adobe.com.', 'IN', 'NS', 'a10-64.akam.net.']"|"['adobe.com.', 'IN', 'NS', 'adobe-dns-05.adobe.com.']"|"['adobe.com.', 'IN', 'NS', 'adobe-dns-04.adobe.com.']"|"['adobe.com.', 'IN', 'NS', 'adobe-dns-01.adobe.com.']"
+<<lt>>
+"['adobe.com.', 'IN', 'TXT', '""fastly-domain-delegation-mcmjcm11052020-05-11-2020""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=Rg8rw6QFcht0wbcstENHTQ3h5l_ujrfBPxhuE7cfBFE""']"|"['adobe.com.', 'IN', 'TXT', '""DXpQZzX4rXJPkCKMkVXs/GYPXzPHerZdxcw5iIMxFy9AjmN9DJ0bat/TqD5cRS/CpsN2Rk9y7NH1FfQkGS3vWg==""']"|"['adobe.com.', 'IN', 'TXT', '""_globalsign-domain-verification=lnj0iZGjUp0BOSg71asjUWlkcoKSaMz2EMksT9_CUS""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=WlkKAHcmf9lr7GeIymdFUnFVnlZBe8EsaUc5t3UASuE""']"|"['adobe.com.', 'IN', 'TXT', '""98a8944ee0d54f6798380941906d6241""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=OCQ4NvNmnZ5O-G_OmpA4igVzqwDoRS2qDECNKajvSXQ""']"|"['adobe.com.', 'IN', 'TXT', '""token value: 34150eb3cd1c4415972199b62fd720d0""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=B29h-nx4tgaIP-yB-xsD_JqsPObknGvdOxV0E-yhjhY""']"|"['adobe.com.', 'IN', 'TXT', '""facebook-domain-verification=3rlk6hdq3nk34qcs4bsz8dua9a1hoa""']"|"['adobe.com.', 'IN', 'TXT', '""atlassian-domain-verification=MuhJPcv3bzIQ9BHg1GjhQfmq+1evcqT7fB9gGJn4aOmE2HExlRuwjr5EE7/nABXh""']"|"['adobe.com.', 'IN', 'TXT', '""Fastly-Domain-Verify-as9dfas8d8fa7-sd707sdfasdf908""']"|"['adobe.com.', 'IN', 'TXT', '""_globalsign-domain-verification=4JjiCeoO4ZI71Wz54ZByVZYNBLNCDNPcLz4lv0Qlzf""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=IWlts5bv60RGLZCKTgxClTsuNLB9cT_09-pevXId2o8""']"|"['adobe.com.', 'IN', 'TXT', '""v=spf1 include:a.adobe.com include:b.adobe.com include:c.adobe.com include:spf.protection.outlook.com include:spf.mandrillapp.com include:spf-a.rnmk.com include:servers.mcsv.net include:sendgrid.net include:_spf.sendergen.com IP4:52.70.25.51"" "" IP4:139.138.59.249 IP4:18.220.161.28 IP4:54.240.14.29 IP4:139.138.34.246 IP4:38.105.5.102 IP4:38.105.5.112 IP4:130.117.41.147 IP4:130.117.41.148 IP4:54.164.100.187 IP4:168.245.51.231 IP4:31.25.81.11 -all""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=v-817iF9e0_UdjWiz3gtCfMvYr8CVFt1Ej4QvMq640U""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=Q86EnJZ_pwCfS8VpA1rlQPS3HXZzrcCWGD68zb74InY""']"|"['adobe.com.', 'IN', 'TXT', '""google-site-verification=MnYkALPA4CNieThUZzzp4Hh88H5szHXokxqirdGFFN0""']"|"['adobe.com.', 'IN', 'TXT', '""_github-challenge-adobe=94b215a3c7""']"
+<<lt>>
+"['adobe.com.', 'IN', 'MX', '2 adobe.mail.protection.outlook.com.']"|"['adobe.com.', 'IN', 'MX', '1 adobe-com.mail.protection.outlook.com.']"
+<<lt>>
+"['adnxs.com.', 'IN', 'NS', 'ns2.gslb.com.']"|"['adnxs.com.', 'IN', 'NS', 'ns1.gslb.com.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['doubleclick.net.', 'NS', 'ns2.google.com.']"|"['doubleclick.net.', 'NS', 'ns4.google.com.']"|"['doubleclick.net.', 'NS', 'ns3.google.com.']"|"['doubleclick.net.', 'NS', 'ns1.google.com.']"
+<<lt>>
+"['doubleclick.net.', 'TXT', '""v=spf1 mx ?all""']"|"['doubleclick.net.', 'TXT', '""spf2.0/pra ?all""']"|"['doubleclick.net.', 'TXT', '""google-site-verification:bqEukzgde2Z8kr2wk5OKZNrYrefPAHaoLYBFsi1ShK8""']"
+<<lt>>
+"['doubleclick.net.', 'MX', '50 alt4.aspmx.l.google.com.']"|"['doubleclick.net.', 'MX', '30 alt2.aspmx.l.google.com.']"|"['doubleclick.net.', 'MX', '20 alt1.aspmx.l.google.com.']"|"['doubleclick.net.', 'MX', '40 alt3.aspmx.l.google.com.']"|"['doubleclick.net.', 'MX', '10 aspmx.l.google.com.']"
+<<lt>>
+"['office.net.', 'IN', 'NS', 'nse12.o365filtering.com.']"|"['office.net.', 'IN', 'NS', 'nse21.o365filtering.com.']"|"['office.net.', 'IN', 'NS', 'nse24.o365filtering.com.']"|"['office.net.', 'IN', 'NS', 'ns4-38.azure-dns.info.']"|"['office.net.', 'IN', 'NS', 'nse13.o365filtering.com.']"|"['office.net.', 'IN', 'NS', 'ns1-38.azure-dns.com.']"|"['office.net.', 'IN', 'NS', 'ns2-38.azure-dns.net.']"|"['office.net.', 'IN', 'NS', 'ns3-38.azure-dns.org.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['pitection.com.', 'IN', 'NS', 'ns.gabia.co.kr.']"|"['pitection.com.', 'IN', 'NS', 'ns.gabia.net.']"|"['pitection.com.', 'IN', 'NS', 'ns1.gabia.co.kr.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['datadoghq.com.', 'IN', 'NS', 'ns-1602.awsdns-08.co.uk.']"|"['datadoghq.com.', 'IN', 'NS', 'ns-1169.awsdns-18.org.']"|"['datadoghq.com.', 'IN', 'NS', 'ns-889.awsdns-47.net.']"|"['datadoghq.com.', 'IN', 'NS', 'ns-442.awsdns-55.com.']"
+<<lt>>
+"['datadoghq.com.', 'IN', 'TXT', '""v=spf1 include:_spf.google.com include:amazonses.com include:mktomail.com include:stspg-customer.com include:mailgun.org ~all""']"|"['datadoghq.com.', 'IN', 'TXT', '""teamviewer-sso-verification=11a2dbf6347f4bbe91cb1870956048b2""']"|"['datadoghq.com.', 'IN', 'TXT', '""status-page-domain-verification=hbhfwcmbbcrp""']"|"['datadoghq.com.', 'IN', 'TXT', '""google-site-verification=sm0j7pwYoa-fbR1ys_SUBCTTf72mU7iZOBkcr3fjyXw""']"|"['datadoghq.com.', 'IN', 'TXT', '""google-site-verification=oHyEoGyoQbOCDqUal9iyDMEsqw-pNwnayJi3Ztt1Vj8""']"|"['datadoghq.com.', 'IN', 'TXT', '""google-site-verification=k8GYgee4xb4tNm31B1HWqKf2dPsPpimIwIG8cJKHW84""']"|"['datadoghq.com.', 'IN', 'TXT', '""google-site-verification=gXsZvHtnNMYYNS8zk0hCk5NW7GXZyQcKzkioq4Pn8f0""']"|"['datadoghq.com.', 'IN', 'TXT', '""google-site-verification=dle7k07_jJFZzVV5ixVZQExqcrP3bsSxY5IhCtyY-TE""']"|"['datadoghq.com.', 'IN', 'TXT', '""MS=ms16087494""']"|"['datadoghq.com.', 'IN', 'TXT', '""google-site-verification=G5paIflEQS6QqVKvmK9o0qtCvO1uHA2fJwiSADs9VZs""']"|"['datadoghq.com.', 'IN', 'TXT', '""docusign=f7542c35-82f8-400b-9eeb-27e0cca94ec3""']"|"['datadoghq.com.', 'IN', 'TXT', '""atlassian-domain-verification=DTVi0Qhn2oMVdRsD6wZ1zah7S2SOA653+60/m41EMnz4j1vg8bTMMR60BwefU8gK""']"|"['datadoghq.com.', 'IN', 'TXT', '""_globalsign-domain-verification=HAV0DdFrnLUqX_rElt-qy46djfIXvl0vWWSpvmvNcE""']"|"['datadoghq.com.', 'IN', 'TXT', '""_globalsign-domain-verification=-awtonA3izZim7M9dNMwrH07WjvKC5se353wYCAliP""']"
+<<lt>>
+"['datadoghq.com.', 'IN', 'MX', '70 aspmx5.googlemail.com.']"|"['datadoghq.com.', 'IN', 'MX', '60 aspmx4.googlemail.com.']"|"['datadoghq.com.', 'IN', 'MX', '50 aspmx3.googlemail.com.']"|"['datadoghq.com.', 'IN', 'MX', '40 aspmx2.googlemail.com.']"|"['datadoghq.com.', 'IN', 'MX', '30 alt2.aspmx.l.google.com.']"|"['datadoghq.com.', 'IN', 'MX', '20 alt1.aspmx.l.google.com.']"|"['datadoghq.com.', 'IN', 'MX', '10 aspmx.l.google.com.']"
+<<lt>>
+"['live.com.', 'IN', 'NS', 'ns4-34.azure-dns.info.']"|"['live.com.', 'IN', 'NS', 'nse24.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'nse21.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'nse13.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'nse12.o365filtering.com.']"|"['live.com.', 'IN', 'NS', 'ns1-34.azure-dns.com.']"|"['live.com.', 'IN', 'NS', 'ns2-34.azure-dns.net.']"|"['live.com.', 'IN', 'NS', 'ns3-34.azure-dns.org.']"
+<<lt>>
+"['live.com.', 'IN', 'TXT', '""google-site-verification=N9kowue62gCm511Op0_N2LO1JZTcjA2GYzOE22SBaiI""']"|"['live.com.', 'IN', 'TXT', '""google-site-verification=DVGpQUbbQCBRPGlmWiTVUMyQGfLPlEVw6Z4pm39AAj4""']"|"['live.com.', 'IN', 'TXT', '""v=spf1 include:spf-a.hotmail.com include:spf-b.hotmail.com include:spf-c.hotmail.com include:spf-d.hotmail.com include:spf.protection.outlook.com ~all""']"|"['live.com.', 'IN', 'TXT', '""facebook-domain-verification=atvthxwtzc3u4ubnsozavn76cusuaj""']"|"['live.com.', 'IN', 'TXT', '""google-site-verification=0mLTLcpaFxdFNO4m1TfqB2WQ4rGtz7xpPmFwDJ9O_9Q""']"
+<<lt>>
+"['live.com.', 'IN', 'MX', '2 live-com.olc.protection.outlook.com.']"
+<<lt>>
+"['bing.com.', 'IN', 'NS', 'dns4.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'dns3.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'dns2.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'dns1.p09.nsone.net.']"|"['bing.com.', 'IN', 'NS', 'ns4-204.azure-dns.info.']"|"['bing.com.', 'IN', 'NS', 'ns3-204.azure-dns.org.']"|"['bing.com.', 'IN', 'NS', 'ns2-204.azure-dns.net.']"|"['bing.com.', 'IN', 'NS', 'ns1-204.azure-dns.com.']"
+<<lt>>
+"['bing.com.', 'IN', 'TXT', '""v=spf1 include:spf.protection.outlook.com -all""']"|"['bing.com.', 'IN', 'TXT', '""v=msv1 t=6097A7EA-53F7-4028-BA76-6869CB284C54""']"|"['bing.com.', 'IN', 'TXT', '""facebook-domain-verification=09yg8uzcfnqnlqekzsbwjxyy8rdck7""']"
+<<lt>>
+"['bing.com.', 'IN', 'MX', '10 bing-com.mail.protection.outlook.com.']"
+<<lt>>
+"['linkedin.com.', 'IN', 'NS', 'ns4.p43.dynect.net.']"|"['linkedin.com.', 'IN', 'NS', 'ns3.p43.dynect.net.']"|"['linkedin.com.', 'IN', 'NS', 'ns2.p43.dynect.net.']"|"['linkedin.com.', 'IN', 'NS', 'ns1.p43.dynect.net.']"|"['linkedin.com.', 'IN', 'NS', 'dns4.p09.nsone.net.']"|"['linkedin.com.', 'IN', 'NS', 'dns3.p09.nsone.net.']"|"['linkedin.com.', 'IN', 'NS', 'dns2.p09.nsone.net.']"|"['linkedin.com.', 'IN', 'NS', 'dns1.p09.nsone.net.']"
+<<lt>>
+"['linkedin.com.', 'IN', 'TXT', '""miro-verification=260f00146b`6d2ad1bb70d6dc07a077b672badd28""']"|"['linkedin.com.', 'IN', 'TXT', '""AFDVALIDATION=LinkedIn""']"|"['linkedin.com.', 'IN', 'TXT', '""atlassian-domain-verification=dDed2VFvlDajBX8X22w52Jx/W/YLHR81SxUuraa9zNdz4aLjDS/RpfN11w2bxpRc""']"|"['linkedin.com.', 'IN', 'TXT', '""448e0dc03e935ecf66d81f1ce3c26b2f2fea13756c031ffc4be91749107f3a79""']"|"['linkedin.com.', 'IN', 'TXT', '""v=spf1 ip4:199.101.162.0/25 ip4:108.174.3.0/24 ip4:108.174.6.0/24 ip4:108.174.0.0/24 ip6:2620:109:c00d:104::/64 ip6:2620:109:c006:104::/64 ip6:2620:109:c003:104::/64 ip6:2620:119:50c0:207::/64 ip4:199.101.161.130 mx mx:docusign.net ~all""']"|"['linkedin.com.', 'IN', 'TXT', '""bf5fl8sny79w4c70jxp6cp3crkqtr7qk""']"|"['linkedin.com.', 'IN', 'TXT', '""google-site-verification=anx3jpa6VKkTWRJKnglUIzm7UEn-ZCT2WqAfG7h-xOg""']"|"['linkedin.com.', 'IN', 'TXT', '""google-site-verification=8LaIeBMwr6K8qWeaGa4CEmfPKiZDwaT38t5mIrtaroI""']"|"['linkedin.com.', 'IN', 'TXT', '""google-site-verification=xAGz495k8RbGclhamQx1TkZSHDxOaEd95fOjc8xpbTA""']"|"['linkedin.com.', 'IN', 'TXT', '""google-site-verification=VE9BWhjbPPNmbr3ZJcwn5hLTsz7c5KPt3zXdYyaSnSQ""']"|"['linkedin.com.', 'IN', 'TXT', '""docusign=11f01284-dffc-40f9-8d56-57e5261ede3f""']"
+<<lt>>
+"['linkedin.com.', 'IN', 'MX', '15 mail-a.linkedin.com.']"|"['linkedin.com.', 'IN', 'MX', '20 mail.linkedin.com.']"|"['linkedin.com.', 'IN', 'MX', '10 mail-d.linkedin.com.']"|"['linkedin.com.', 'IN', 'MX', '10 mail-c.linkedin.com.']"
+<<lt>>
+"['gravator.com.', 'IN', 'NS', 'ns2.venture.com.']"|"['gravator.com.', 'IN', 'NS', 'ns1.venture.com.']"
+<<lt>>
+"['gravator.com.', 'IN', 'TXT', '""v=spf1 -all""']"
+<<lt>>
+"['gravator.com.', 'IN', 'MX', '0 .']"
+<<lt>>
+"['skype.com.', 'IN', 'NS', 'ns4-205.azure-dns.info.']"|"['skype.com.', 'IN', 'NS', 'ns3-205.azure-dns.org.']"|"['skype.com.', 'IN', 'NS', 'ns2-205.azure-dns.net.']"|"['skype.com.', 'IN', 'NS', 'ns1-205.azure-dns.com.']"
+<<lt>>
+"['skype.com.', 'IN', 'TXT', '""google-site-verification=R9lBFA5SoH0CKpHuBMa4akNqb8E8YF8fim8qpGF22mg""']"|"['skype.com.', 'IN', 'TXT', '""facebook-domain-verification=87pranlm54pxjnpg1lp1nc3bcanv3f""']"|"['skype.com.', 'IN', 'TXT', '""v=msv1 t=6097A7EA-53F7-4028-BA76-6869CB284C54""']"|"['skype.com.', 'IN', 'TXT', '""v=spf1 include:_spf-ssg-a.microsoft.com ip4:91.190.218.48 ip4:91.190.216.100 -all""']"
+<<lt>>
+"['skype.com.', 'IN', 'MX', '10 skype-com.mail.protection.outlook.com.']"
+<<lt>>
+"['microsoftoline.com.', 'NS', 'ns1.bodis.com.']"|"['microsoftoline.com.', 'NS', 'ns2.bodis.com.']"
+<<lt>>
+
+<<lt>>
+"['microsoftoline.com.', 'MX', '10 mx76.m2bp.com.']"|"['microsoftoline.com.', 'MX', '0 mx76.mb1p.com.']"
+<<lt>>
+"['flashtalking.com.', 'NS', 'ns3.p09.dynect.net.']"|"['flashtalking.com.', 'NS', 'ns1.p09.dynect.net.']"|"['flashtalking.com.', 'NS', 'ns4.p09.dynect.net.']"|"['flashtalking.com.', 'NS', 'ns2.p09.dynect.net.']"
+<<lt>>
+"['flashtalking.com.', 'TXT', '""MS=ms46843028""']"|"['flashtalking.com.', 'TXT', '""v=spf1 exists:%{i}.spf.hc3796-46.iphmx.com include:flashtalking.net include:docebosaas.com include:b2b-mail.net include:email2reg.com include:act-on.net include:act-on.com include:contact-list.net include:spf.protection.outlook.com -all""']"|"['flashtalking.com.', 'TXT', '""atlassian-domain-verification=cCwFG1Gixh6ksj0thnJqQxldsZW7nMoRtCXy4L5vVuQbaMmTgOSniOq9PNKZp2Qw""']"|"['flashtalking.com.', 'TXT', '""blitz=mu-b985fac5-0472ceaf-bd443585-2ce0f2aa""']"|"['flashtalking.com.', 'TXT', '""amazonses:okBo4EXYs05Iop1siBM80CEvx1NBa5SpooTGKoCqL4E=""']"
+<<lt>>
+"['flashtalking.com.', 'MX', '0 mx1.hc3796-46.iphmx.com.']"|"['flashtalking.com.', 'MX', '0 mx2.hc3796-46.iphmx.com.']"
+<<lt>>
+"['doubleverify.com.', 'NS', 'nycc-dc02.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'sgcp-dv-dc01.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'a24-64.akam.net.']"|"['doubleverify.com.', 'NS', 'a1-158.akam.net.']"|"['doubleverify.com.', 'NS', 'nycp-dv-dc07.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'a26-65.akam.net.']"|"['doubleverify.com.', 'NS', 'a22-67.akam.net.']"|"['doubleverify.com.', 'NS', 'a5-66.akam.net.']"|"['doubleverify.com.', 'NS', 'nycp-dv-dc04.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'sgcp-dv-dc02.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'dvdcny03.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'nycc-dc01.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'nycp-dns01.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'frcp-dv-dc01.doubleverify.prod.']"|"['doubleverify.com.', 'NS', 'a9-67.akam.net.']"|"['doubleverify.com.', 'NS', 'frcp-dv-dc02.doubleverify.prod.']"
+<<lt>>
+"['doubleverify.com.', 'TXT', '""adobe-idp-site-verification=5777e7077aa021fff13a14be21f34a2e63cdb5a9fe91bc13995b730ff12c94c8""']"|"['doubleverify.com.', 'TXT', '""northpass-domain-verification=ae825879144ab624ebcda7a08276ee04""']"|"['doubleverify.com.', 'TXT', '""atlassian-domain-verification=S2QsylNODOC647hz2+i6IZWHQZGuY2m3A/sAU/kyZiNWdwGlXpWoNQkB+/zF0FDG""']"|"['doubleverify.com.', 'TXT', '""google-site-verification=iVrwH6-iIeT2rnheK2ocsVTfvLosfanyJ4hEgnFWlHI""']"|"['doubleverify.com.', 'TXT', '""Probe.ly=73e000a9-a5df-48a5-a8f6-f4f6cee5e2ad""']"|"['doubleverify.com.', 'TXT', '""ZOOM_verify_eRV87FRgSGeEEEdLh5Js1g""']"|"['doubleverify.com.', 'TXT', '""v=spf1 include:relays.gooddata.com include:sent-via.netsuite.com include:onaldv.com include:_spf.salesforce.com include:_spf.google.com include:_spf.psm.knowbe4.com ip4:204.154.110.0/23 ip4:108.60.134.210 ~all""']"|"['doubleverify.com.', 'TXT', '""MS=ms13378337""']"|"['doubleverify.com.', 'TXT', '""tinfoil-site-verification: 07368c6d6911b8038f617dd518501a5654d5d08a=12c7c6ac968a7992c0450370d2bd6a6d422c459d""']"|"['doubleverify.com.', 'TXT', '""MS=9235921E61AE6D9F1A514BD1562DF6929212AD4A\\009""']"|"['doubleverify.com.', 'TXT', '""atlassian-domain-verification=HjhlR3SDqq8UtKGvvXbYPGi4DhIGJv+m+Dz0pgPI2h2XaGUqwc+NgeJ73rmFZwLG""']"|"['doubleverify.com.', 'TXT', '""e9ae689e51780de2c0b9345581b12b339cf0762531ac7ecf66b924d128409aa""']"|"['doubleverify.com.', 'TXT', '""MS=459662B08FE7ABE5CD420C8A0DA91B47F187B31A""']"|"['doubleverify.com.', 'TXT', '""atlassian-domain-verification=HYtLFBZ74v9/kJSRXvExAUfmlR30L2kE7vr66ADGgF5tOVNCxz1aaDdgIdqoo6yk""']"|"['doubleverify.com.', 'TXT', '""dropbox-domain-verification=vq0003kxspf2""']"
+<<lt>>
+"['doubleverify.com.', 'MX', '15 alt2.aspmx.l.google.com.']"|"['doubleverify.com.', 'MX', '10 aspmx.l.google.com.']"|"['doubleverify.com.', 'MX', '20 alt4.aspmx.l.google.com.']"|"['doubleverify.com.', 'MX', '5 mxb-005c0b02.gslb.pphosted.com.']"|"['doubleverify.com.', 'MX', '15 alt1.aspmx.l.google.com.']"|"['doubleverify.com.', 'MX', '20 alt3.aspmx.l.google.com.']"|"['doubleverify.com.', 'MX', '5 mxa-005c0b02.gslb.pphosted.com.']"
+<<lt>>
+"['amazone.com.', 'IN', 'NS', 'pdns3.ultradns.org.']"|"['amazone.com.', 'IN', 'NS', 'pdns6.ultradns.co.uk.']"|"['amazone.com.', 'IN', 'NS', 'ns4.p31.dynect.net.']"|"['amazone.com.', 'IN', 'NS', 'ns1.p31.dynect.net.']"|"['amazone.com.', 'IN', 'NS', 'pdns2.ultradns.net.']"|"['amazone.com.', 'IN', 'NS', 'pdns1.ultradns.net.']"|"['amazone.com.', 'IN', 'NS', 'ns3.p31.dynect.net.']"|"['amazone.com.', 'IN', 'NS', 'ns2.p31.dynect.net.']"|"['amazone.com.', 'IN', 'NS', 'pdns4.ultradns.org.']"|"['amazone.com.', 'IN', 'NS', 'pdns5.ultradns.info.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['googlevideo.com.', 'NS', 'ns4.google.com.']"|"['googlevideo.com.', 'NS', 'ns3.google.com.']"|"['googlevideo.com.', 'NS', 'ns1.google.com.']"|"['googlevideo.com.', 'NS', 'ns2.google.com.']"
+<<lt>>
+"['googlevideo.com.', 'TXT', '""v=spf1 ?all""']"
+<<lt>>
+
+<<lt>>
+"['taboola.com.', 'IN', 'NS', 'ns04.dnsfaster.com.']"|"['taboola.com.', 'IN', 'NS', 'ns03.dnsfaster.com.']"|"['taboola.com.', 'IN', 'NS', 'ns02.dnsfaster.com.']"|"['taboola.com.', 'IN', 'NS', 'ns01.dnsfaster.com.']"|"['taboola.com.', 'IN', 'NS', 'dns4.p05.nsone.net.']"|"['taboola.com.', 'IN', 'NS', 'dns3.p05.nsone.net.']"|"['taboola.com.', 'IN', 'NS', 'dns2.p05.nsone.net.']"|"['taboola.com.', 'IN', 'NS', 'dns1.p05.nsone.net.']"
+<<lt>>
+"['taboola.com.', 'IN', 'TXT', '""v=spf1 ip4:69.72.32.0/20 ip4:74.125.0.0/16 ip4:54.240.0.0/18 ip4:35.191.0.0/16 ip4:72.3.185.0/24 ip4:66.102.0.0/20 ip4:72.14.192.0/18 ip4:172.217.0.0/19 ip4:166.78.68.0/22 ip4:72.32.243.0/24 ip4:66.249.80.0/20 ip4:72.32.154.0/24 ip4:148.105.8.0/21 ip4:198"" "".2.128.0/18 ip4:130.211.0.0/22 ip4:72.32.217.0/24 ip4:108.177.8.0/21 ip4:173.194.0.0/16 ip4:69.169.224.0/20 ip4:35.190.247.0/24 ip4:23.249.208.0/20 include:_s0.taboola.com ~all""']"|"['taboola.com.', 'IN', 'TXT', '""_globalsign-domain-verification=EjPxRpSNAI2an12JHUpXeiMSoted2BhX6p_ljbqWlU""']"|"['taboola.com.', 'IN', 'TXT', '""google-site-verification=WtvTbfD00SqocN9f66FsffUbeXC7FwKDe9BvotdOkxI""']"|"['taboola.com.', 'IN', 'TXT', '""MS=ms65608087""']"|"['taboola.com.', 'IN', 'TXT', '""google-site-verification=QU6wU2G_owHwnEc7mm0PjQoaKkGJiwkqX0mu5uIRkW8""']"|"['taboola.com.', 'IN', 'TXT', '""google-site-verification=Nbis9KGSAEo8DL0DrsrKbaEszIQoMrI3yVsjQpySJ3M""']"|"['taboola.com.', 'IN', 'TXT', '""google-site-verification=N60gm5YnA_5ibrU2k9tH-TJqaVwp-P3sB44ZzWbzxAc""']"|"['taboola.com.', 'IN', 'TXT', '""loom-site-verification=204f0ab818f744c0b907f162ef955d04""']"|"['taboola.com.', 'IN', 'TXT', '""dropbox-domain-verification=83v9pbst2ah0""']"|"['taboola.com.', 'IN', 'TXT', '""ZOOM_verify__4EwWQwfRSulSFzqXd6chA""']"
+<<lt>>
+"['taboola.com.', 'IN', 'MX', '10 aspmx5.googlemail.com.']"|"['taboola.com.', 'IN', 'MX', '10 aspmx4.googlemail.com.']"|"['taboola.com.', 'IN', 'MX', '10 aspmx3.googlemail.com.']"|"['taboola.com.', 'IN', 'MX', '10 aspmx2.googlemail.com.']"|"['taboola.com.', 'IN', 'MX', '5 alt2.aspmx.l.google.com.']"|"['taboola.com.', 'IN', 'MX', '5 alt1.aspmx.l.google.com.']"|"['taboola.com.', 'IN', 'MX', '1 aspmx.l.google.com.']"
+<<lt>>
+"['contextweb.com.', 'IN', 'NS', 'dns4.p02.nsone.net.']"|"['contextweb.com.', 'IN', 'NS', 'dns3.p02.nsone.net.']"|"['contextweb.com.', 'IN', 'NS', 'dns2.p02.nsone.net.']"|"['contextweb.com.', 'IN', 'NS', 'dns1.p02.nsone.net.']"|"['contextweb.com.', 'IN', 'NS', 'ns04.ppointdns.com.']"|"['contextweb.com.', 'IN', 'NS', 'ns03.ppointdns.com.']"|"['contextweb.com.', 'IN', 'NS', 'ns02.ppointdns.com.']"|"['contextweb.com.', 'IN', 'NS', 'ns01.ppointdns.com.']"
+<<lt>>
+"['contextweb.com.', 'IN', 'TXT', '""fastly-domain-delegation-85o4q2h2riwremiv3avf-305201-2020-10-29""']"|"['contextweb.com.', 'IN', 'TXT', '""google-site-verification=efQlFbEtFGdrnDKp_9Ue03Vdi4a96DcAxTVoUi6KBDs""']"|"['contextweb.com.', 'IN', 'TXT', '""v=spf1 mx ip4:198.148.26.24/32 ip4:198.148.26.20/32 ip4:198.148.26.21/32 ip4:198.148.26.19/32 include:spf.protection.outlook.com ~all""']"
+<<lt>>
+"['contextweb.com.', 'IN', 'MX', '0 lga-mx1.pulsepoint.com.']"|"['contextweb.com.', 'IN', 'MX', '5 sjc-ironport.pulsepoint.com.']"
+<<lt>>
+"['office.com.', 'IN', 'NS', 'ns3-32.azure-dns.org.']"|"['office.com.', 'IN', 'NS', 'ns1-32.azure-dns.com.']"|"['office.com.', 'IN', 'NS', 'ns4-32.azure-dns.info.']"|"['office.com.', 'IN', 'NS', 'nse12.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'nse13.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'nse21.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'nse24.o365filtering.com.']"|"['office.com.', 'IN', 'NS', 'ns2-32.azure-dns.net.']"
+<<lt>>
+"['office.com.', 'IN', 'TXT', '""google-site-verification=zqthuNzyDukN37Znr1L5xdDKHo7KZUL2LTyOqzU7cFo""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=9aqt6mNhLx_inDlQjEfPiqq_TYfy72IFpoUh5_gijEg""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=WiCZ6HhPFmPMk5PTkdpSnevgiRttL2tQ-7QA_Z81JRk""']"|"['office.com.', 'IN', 'TXT', '""facebook-domain-verification=h6ulkdsze2qhdtbdnivt3lilquemgc""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=ntjPAtTot4dDzv9Z7WpQYYSlgVajPuBZx0FoZyRE8q8""']"|"['office.com.', 'IN', 'TXT', '""google-site-verification=iJN6qYrMLZmqRE70EPwnmUtT7qW3Rs-X3_wgil1YQjw""']"
+<<lt>>
+
+<<lt>>
+"['office365.com.', 'IN', 'NS', 'ns3-38.azure-dns.org.']"|"['office365.com.', 'IN', 'NS', 'ns2-38.azure-dns.net.']"|"['office365.com.', 'IN', 'NS', 'ns4-38.azure-dns.info.']"|"['office365.com.', 'IN', 'NS', 'nse24.o365filtering.com.']"|"['office365.com.', 'IN', 'NS', 'nse21.o365filtering.com.']"|"['office365.com.', 'IN', 'NS', 'nse13.o365filtering.com.']"|"['office365.com.', 'IN', 'NS', 'nse12.o365filtering.com.']"|"['office365.com.', 'IN', 'NS', 'ns1-38.azure-dns.com.']"
+<<lt>>
+"['office365.com.', 'IN', 'TXT', '""officeprodes.azurewebsites.net""']"|"['office365.com.', 'IN', 'TXT', '""google-site-verification=u9PqvuplbTIYlwiMAzJWnRRtHYoAlaTX5GMtRRXqWXA""']"|"['office365.com.', 'IN', 'TXT', '""v=spf1 include:spf.protection.outlook.com ~all""']"
+<<lt>>
+
+<<lt>>
+"['github.com.', 'IN', 'NS', 'ns-520.awsdns-01.net.']"|"['github.com.', 'IN', 'NS', 'ns-421.awsdns-52.com.']"|"['github.com.', 'IN', 'NS', 'ns-1707.awsdns-21.co.uk.']"|"['github.com.', 'IN', 'NS', 'ns-1283.awsdns-32.org.']"|"['github.com.', 'IN', 'NS', 'dns4.p08.nsone.net.']"|"['github.com.', 'IN', 'NS', 'dns3.p08.nsone.net.']"|"['github.com.', 'IN', 'NS', 'dns2.p08.nsone.net.']"|"['github.com.', 'IN', 'NS', 'dns1.p08.nsone.net.']"
+<<lt>>
+"['github.com.', 'IN', 'TXT', '""v=spf1 ip4:192.30.252.0/22 include:_spf.google.com include:esp.github.com include:servers.mcsv.net include:_spf.salesforce.com  include:spf.protection.outlook.com ~all""']"|"['github.com.', 'IN', 'TXT', '""docusign=087098e3-3d46-47b7-9b4e-8a23028154cd""']"|"['github.com.', 'IN', 'TXT', '""MS=ms58704441""']"|"['github.com.', 'IN', 'TXT', '""MS=ms44452932""']"|"['github.com.', 'IN', 'TXT', '""MS=6BF03E6AF5CB689E315FB6199603BABF2C88D805""']"
+<<lt>>
+"['github.com.', 'IN', 'MX', '5 alt2.aspmx.l.google.com.']"|"['github.com.', 'IN', 'MX', '5 alt1.aspmx.l.google.com.']"|"['github.com.', 'IN', 'MX', '10 alt4.aspmx.l.google.com.']"|"['github.com.', 'IN', 'MX', '10 alt3.aspmx.l.google.com.']"|"['github.com.', 'IN', 'MX', '1 aspmx.l.google.com.']"
+<<lt>>
+"['googlesyndication.com.', 'NS', 'ns2.google.com.']"|"['googlesyndication.com.', 'NS', 'ns4.google.com.']"|"['googlesyndication.com.', 'NS', 'ns3.google.com.']"|"['googlesyndication.com.', 'NS', 'ns1.google.com.']"
+<<lt>>
+"['googlesyndication.com.', 'TXT', '""v=spf1 include:_spf.google.com ?all""']"
+<<lt>>
+"['googlesyndication.com.', 'MX', '30 alt2.aspmx.l.google.com.']"|"['googlesyndication.com.', 'MX', '20 alt1.aspmx.l.google.com.']"|"['googlesyndication.com.', 'MX', '40 alt3.aspmx.l.google.com.']"|"['googlesyndication.com.', 'MX', '50 alt4.aspmx.l.google.com.']"|"['googlesyndication.com.', 'MX', '10 aspmx.l.google.com.']"
+<<lt>>
+"['kyobobook.co.kr.', 'NS', 'ns2.kyobobook.co.kr.']"|"['kyobobook.co.kr.', 'NS', 'ns1.kyobobook.co.kr.']"
+<<lt>>
+"['kyobobook.co.kr.', 'TXT', '""v=spf1 ip4:211.189.37.6 ip4:211.189.37.8 ip4:211.189.36.154 ip4:211.189.36.155 ip4:1.232.127.231 ip4:1.232.127.232 ip4:1.232.127.226 ip4:1.232.127.227 ip4:211.189.37.9 ip4:1.209.119.81 ip4:1.232.127.233 ip4:1.232.127.234 ~all""']"|"['kyobobook.co.kr.', 'TXT', '""google-site-verification=nhubQ7wk_whVNqFAlyMH-nxVk76cEBk5YxqOGyCZyg4""']"
+<<lt>>
+"['kyobobook.co.kr.', 'MX', '10 mail.kyobobook.co.kr.']"|"['kyobobook.co.kr.', 'MX', '5 clean.kyobobook.co.kr.']"
+<<lt>>
+"['facebook.com.', 'IN', 'NS', 'a.ns.facebook.com.']"|"['facebook.com.', 'IN', 'NS', 'b.ns.facebook.com.']"|"['facebook.com.', 'IN', 'NS', 'c.ns.facebook.com.']"|"['facebook.com.', 'IN', 'NS', 'd.ns.facebook.com.']"
+<<lt>>
+"['facebook.com.', 'IN', 'TXT', '""google-site-verification=wdH5DTJTc9AYNwVunSVFeK0hYDGUIEOGb-RReU6pJlY""']"|"['facebook.com.', 'IN', 'TXT', '""google-site-verification=A2WZWCNQHrGV_TWwKh6KHY90tY0SHZo_RnyMJoDaG0s""']"|"['facebook.com.', 'IN', 'TXT', '""v=spf1 redirect=_spf.facebook.com""']"
+<<lt>>
+"['facebook.com.', 'IN', 'MX', '10 smtpin.vvv.facebook.com.']"
+<<lt>>
+"['nortoon.com.', 'IN', 'NS', 'ns1.domainmx.com.']"|"['nortoon.com.', 'IN', 'NS', 'ns2.domainmx.com.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['yes24.com.', 'IN', 'NS', 'ns2.lgdacom.net.']"|"['yes24.com.', 'IN', 'NS', 'ns1.kidc.net.']"
+<<lt>>
+"['yes24.com.', 'IN', 'TXT', '""v=spf1 ip4:61.111.13.101 ip4:61.111.13.100 ip4:61.111.13.129 ip4:61.111.13.108 ip4:61.111.13.106 ip4:61.111.13.152 ip4:61.111.13.109 ip4:61.111.13.110 ip4:222.122.224.34 ip4:222.122.224.35 ip4:222.122.224.36 ip4:211.237.15.154 ip4:114.108.168.79 -all""']"|"['yes24.com.', 'IN', 'TXT', '""MS=ms90735056""']"
+<<lt>>
+"['yes24.com.', 'IN', 'MX', '20 smail.yes24.com.']"
+<<lt>>
+"['googledrive.com.', 'NS', 'ns2.google.com.']"|"['googledrive.com.', 'NS', 'ns4.google.com.']"|"['googledrive.com.', 'NS', 'ns1.google.com.']"|"['googledrive.com.', 'NS', 'ns3.google.com.']"
+<<lt>>
+"['googledrive.com.', 'TXT', '""v=spf1 -all""']"
+<<lt>>
+
+<<lt>>
+"['011st.com.', 'IN', 'NS', 'ns-1216.awsdns-24.org.']"|"['011st.com.', 'IN', 'NS', 'ns-583.awsdns-08.net.']"|"['011st.com.', 'IN', 'NS', 'ns-488.awsdns-61.com.']"|"['011st.com.', 'IN', 'NS', 'ns-1732.awsdns-24.co.uk.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['66kc04.com.', 'IN', 'NS', 'f1g1ns2.dnspod.net.']"|"['66kc04.com.', 'IN', 'NS', 'f1g1ns1.dnspod.net.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['apple.com.', 'IN', 'NS', 'd.ns.apple.com.']"|"['apple.com.', 'IN', 'NS', 'c.ns.apple.com.']"|"['apple.com.', 'IN', 'NS', 'a.ns.apple.com.']"|"['apple.com.', 'IN', 'NS', 'b.ns.apple.com.']"
+<<lt>>
+"['apple.com.', 'IN', 'TXT', '""miro-verification=2494d255c4c50b1e521650a0659cbf3fa08b0072""']"|"['apple.com.', 'IN', 'TXT', '""cisco-ci-domain-verification=6f3bfb849796a518061f8e8c4356f687a138502d86db742791685059176547dd""']"|"['apple.com.', 'IN', 'TXT', '""webexdomainverification.7T0ZL=90f57a61-f0a3-45dc-b175-de0a0069b403""']"|"['apple.com.', 'IN', 'TXT', '""apple-domain-verification=X5Jt76bn3Dnmgzjj""']"|"['apple.com.', 'IN', 'TXT', '""v=spf1 include:_spf.apple.com include:_spf-txn.apple.com ~all""']"|"['apple.com.', 'IN', 'TXT', '""webexdomainverification.=dce40a41-e0b7-400d-8882-089877764843""']"|"['apple.com.', 'IN', 'TXT', '""webexdomainverification.=1e7d625d-ca37-44c8-b3df-476ba2ffa2ab""']"|"['apple.com.', 'IN', 'TXT', '""facebook-domain-verification=n6cqjfucq6plswmtfbwnbbeu1qiq3v""']"|"['apple.com.', 'IN', 'TXT', '""adobe-idp-site-verification=6bd5e74c-a3a0-4781-b2e1-e95399b5e11c""']"|"['apple.com.', 'IN', 'TXT', '""google-site-verification=L5kkMdiFI8npvb6KlHui84fJaCw5G64DWhaDRIAT4_c""']"
+<<lt>>
+"['apple.com.', 'IN', 'MX', '10 ma1-aaemail-dr-lapp03.apple.com.']"|"['apple.com.', 'IN', 'MX', '10 ma1-aaemail-dr-lapp02.apple.com.']"|"['apple.com.', 'IN', 'MX', '10 ma1-aaemail-dr-lapp01.apple.com.']"|"['apple.com.', 'IN', 'MX', '10 nwk-aaemail-lapp03.apple.com.']"|"['apple.com.', 'IN', 'MX', '10 nwk-aaemail-lapp02.apple.com.']"|"['apple.com.', 'IN', 'MX', '10 nwk-aaemail-lapp01.apple.com.']"
+<<lt>>
+"['google-analytics.com.', 'NS', 'ns3.google.com.']"|"['google-analytics.com.', 'NS', 'ns1.google.com.']"|"['google-analytics.com.', 'NS', 'ns2.google.com.']"|"['google-analytics.com.', 'NS', 'ns4.google.com.']"
+<<lt>>
+"['google-analytics.com.', 'TXT', '""v=spf1 -all""']"
+<<lt>>
+
+<<lt>>
+"['icloud.com.', 'IN', 'NS', 'd.ns.apple.com.']"|"['icloud.com.', 'IN', 'NS', 'c.ns.apple.com.']"|"['icloud.com.', 'IN', 'NS', 'b.ns.apple.com.']"|"['icloud.com.', 'IN', 'NS', 'a.ns.apple.com.']"
+<<lt>>
+"['icloud.com.', 'IN', 'TXT', '""google-site-verification=knAEOH4QxR29I4gjRkpkvmUmP2AA7WrDk8Kq0wu9g9o""']"|"['icloud.com.', 'IN', 'TXT', '""v=spf1 ip4:17.36.0.0/16 ip4:17.41.0.0/16 ip4:17.58.0.0/16 ip4:17.110.0.0/15 ip4:17.111.110.0/23 ip4:17.120.0.0/16 ip4:17.133.0.0/16 ip4:17.139.0.0/16 ip4:17.142.0.0/15"" "" ip4:17.151.1.0/24 ip4:17.158.0.0/15 ip4:17.162.0.0/15 ip4:17.164.0.0/16 ip4:17.171.37.0/24 ip4:17.172.0.0/16 ip4:17.179.168.0/23 ip4:144.178.36.0/24 ip4:144.178.38.0/24 ~all""']"
+<<lt>>
+"['icloud.com.', 'IN', 'MX', '10 mx01.mail.icloud.com.']"|"['icloud.com.', 'IN', 'MX', '10 mx02.mail.icloud.com.']"
+<<lt>>
+"['wooribank.com.', 'IN', 'NS', 'ns2.kornet.net.']"|"['wooribank.com.', 'IN', 'NS', 'xns2.hananet.net.']"|"['wooribank.com.', 'IN', 'NS', 'ns2.lguplus.com.']"|"['wooribank.com.', 'IN', 'NS', 'ns2.epidc.co.kr.']"
+<<lt>>
+"['wooribank.com.', 'IN', 'TXT', '""google-site-verification=MsY0qrc-NysM6lGjFB4kcfozlj9l1QkiRqryX_tZAKg""']"|"['wooribank.com.', 'IN', 'TXT', '""v=spf1 ip4:210.182.9.104 ip4:210.182.9.105 ip4:203.248.67.13 ip4:203.248.67.14 ip4:203.248.67.121 ip4:210.182.9.151 ip4:210.182.9.101 ip4:203.248.67.120 ip4:1.232.5.1 ip4:52.193.80.149 ip4:52.69.18.79 ip4:118.218.194.42 ip4:118.218.194.0/24 ~all""']"
+<<lt>>
+"['wooribank.com.', 'IN', 'MX', '5 mail2.wooribank.com.']"
+<<lt>>
+"['callrail.com.', 'IN', 'NS', 'ns-1506.awsdns-60.org.']"|"['callrail.com.', 'IN', 'NS', 'ns-843.awsdns-41.net.']"|"['callrail.com.', 'IN', 'NS', 'ns-1957.awsdns-52.co.uk.']"|"['callrail.com.', 'IN', 'NS', 'ns-161.awsdns-20.com.']"
+<<lt>>
+"['callrail.com.', 'IN', 'TXT', '""v=spf1 a mx include:sendgrid.net include:support.zendesk.com include:_spf.google.com include:mktomail.com include:mg-spf.greenhouse.io ~all""']"|"['callrail.com.', 'IN', 'TXT', '""236B087DB8""']"|"['callrail.com.', 'IN', 'TXT', '""status-page-domain-verification=dmkccmhphjpc""']"|"['callrail.com.', 'IN', 'TXT', '""onetrust-domain-verification=2bb9073d13634b749606c05636745272""']"|"['callrail.com.', 'IN', 'TXT', '""h1-domain-verification=xtFLTXgLEVDUR4Y7MnE6gERCfMbW2uo1X47KZqo1REg4NcNu""']"|"['callrail.com.', 'IN', 'TXT', '""google-site-verification=8s3YA0XCyvI7fnyBAC5dQbvOjys9g3V6xHJ8dF3mYj8""']"|"['callrail.com.', 'IN', 'TXT', '""drift-domain-verification=0ca642158d49c8475bda5295540ac255accc3560f0385a2cfa04995c7830c49e""']"
+<<lt>>
+"['callrail.com.', 'IN', 'MX', '5 alt2.aspmx.l.google.com.']"|"['callrail.com.', 'IN', 'MX', '5 alt1.aspmx.l.google.com.']"|"['callrail.com.', 'IN', 'MX', '10 aspmx3.googlemail.com.']"|"['callrail.com.', 'IN', 'MX', '10 aspmx2.googlemail.com.']"|"['callrail.com.', 'IN', 'MX', '1 aspmx.l.google.com.']"
+<<lt>>
+"['maxpcsecure.com.', 'NS', 'ns1045.ui-dns.biz.']"|"['maxpcsecure.com.', 'NS', 'ns1045.ui-dns.de.']"|"['maxpcsecure.com.', 'NS', 'ns1045.ui-dns.org.']"|"['maxpcsecure.com.', 'NS', 'ns1045.ui-dns.com.']"
+<<lt>>
+"['maxpcsecure.com.', 'TXT', '""amazonses:pjDFEx5fzy6xuzr7++gd3b74G17dtrTq3RX+UYFCBHo=""']"|"['maxpcsecure.com.', 'TXT', '""v=spf1 include:mailgun.org ~all""']"
+<<lt>>
+"['maxpcsecure.com.', 'MX', '10 mx00.ionos.com.']"|"['maxpcsecure.com.', 'MX', '10 mx01.ionos.com.']"
+<<lt>>
+"['coronaboard.kr.', 'IN', 'NS', 'roan.ns.cloudflare.com.']"|"['coronaboard.kr.', 'IN', 'NS', 'laura.ns.cloudflare.com.']"
+<<lt>>
+"['coronaboard.kr.', 'IN', 'TXT', '""google-site-verification=ka2LWtI-1OC7mzr9OWoTYZ_nIZNqxrO8ov5Ru7wOlKE""']"
+<<lt>>
+
+<<lt>>
+"['cdpn.io.', 'IN', 'NS', 'kristin.ns.cloudflare.com.']"|"['cdpn.io.', 'IN', 'NS', 'albert.ns.cloudflare.com.']"
+<<lt>>
+
+<<lt>>
+
+<<lt>>
+"['amazon.com.', 'IN', 'NS', 'pdns6.ultradns.co.uk.']"|"['amazon.com.', 'IN', 'NS', 'ns1.p31.dynect.net.']"|"['amazon.com.', 'IN', 'NS', 'ns4.p31.dynect.net.']"|"['amazon.com.', 'IN', 'NS', 'ns3.p31.dynect.net.']"|"['amazon.com.', 'IN', 'NS', 'ns2.p31.dynect.net.']"|"['amazon.com.', 'IN', 'NS', 'pdns1.ultradns.net.']"
+<<lt>>
+"['amazon.com.', 'IN', 'TXT', '""facebook-domain-verification=d9u57u52gylohx845ogo1axzpywpmq""']"|"['amazon.com.', 'IN', 'TXT', '""MS=4B600B22799EB2CAC0D8FF0A3A3CAECA5EE2BF3A""']"|"['amazon.com.', 'IN', 'TXT', '""google-site-verification=9vpzZueNucS8hPqoGpZ5r10Nr2_sLMRG3AnDtNlucc4""']"|"['amazon.com.', 'IN', 'TXT', '""google-site-verification=14WGW2MdNMxchG8PlinF7LgqqE0OwwHqOq0HKhb7rDQ""']"|"['amazon.com.', 'IN', 'TXT', '""v=spf1 include:spf1.amazon.com include:spf2.amazon.com include:amazonses.com ~all""']"|"['amazon.com.', 'IN', 'TXT', '""spf2.0/pra include:spf1.amazon.com include:spf2.amazon.com include:amazonses.com -all""']"
+<<lt>>
+"['amazon.com.', 'IN', 'MX', '5 amazon-smtp.amazon.com.']"
+<<lt>>
